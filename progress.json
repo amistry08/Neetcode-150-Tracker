@@ -1,0 +1,12 @@
+{
+  "Arrays & Hashing": {
+    "Two Sum": true,
+    "Group Anagrams": true,
+    "Contains Duplicate": true,
+    "Product of Array Except Self": false
+  },
+  "Two Pointers": {
+    "Valid Palindrome": true,
+    "Two Sum II - Input Array Is Sorted": false
+  }
+}

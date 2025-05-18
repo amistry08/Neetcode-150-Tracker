@@ -1,7 +1,14 @@
 class Solution:
-    def twoSum(self, nums, target):
-        lookup = {}
-        for i, num in enumerate(nums):
-            if target - num in lookup:
-                return [lookup[target - num], i]
-            lookup[num] = i
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        indices = {}  # val -> index
+
+        for i, n in enumerate(nums):
+            indices[n] = i
+
+        print(indices)
+        
+        for i, n in enumerate(nums):
+            diff = target - n
+            if diff in indices and indices[diff] != i:
+                return [i, indices[diff]]
+      

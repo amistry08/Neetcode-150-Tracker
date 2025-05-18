@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `{{COMPLETED}} / 150 ✅`
+**Progress**: `6 / 150 ✅`
 
 ---
 
@@ -14,7 +14,8 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
 ## 📂 Two Pointers
 
-{{TWO_POINTERS}}
+- ✅ [Valid Palindrome](solutions/two_pointers/valid_palindrome.py)
+- ✅ Two Sum II - Input Array Is Sorted
 
 ---
 

@@ -40,97 +40,213 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
 ## 📂 Stack
 
-{{STACK}}
+- 🔲 Valid Parentheses
+- 🔲 Min Stack
+- 🔲 Evaluate Reverse Polish Notation
+- 🔲 Generate Parentheses
+- 🔲 Daily Temperatures
+- 🔲 Car Fleet
+- 🔲 Largest Rectangle in Histogram
 
 ---
 
 ## 📂 Binary Search
 
-{{BINARY_SEARCH}}
+- 🔲 Binary Search
+- 🔲 Search a 2D Matrix
+- 🔲 Koko Eating Bananas
+- 🔲 Find Minimum in Rotated Sorted Array
+- 🔲 Search in Rotated Sorted Array
+- 🔲 Time Based Key-Value Store
+- 🔲 Median of Two Sorted Arrays
 
 ---
 
 ## 📂 Linked List
 
-{{LINKED_LIST}}
+- 🔲 Reverse Linked List
+- 🔲 Merge Two Sorted Lists
+- 🔲 Reorder List
+- 🔲 Remove Nth Node From End of List
+- 🔲 Copy List with Random Pointer
+- 🔲 Add Two Numbers
+- 🔲 Linked List Cycle
+- 🔲 LRU Cache
+- 🔲 Merge K Sorted Lists
+- 🔲 Reverse Nodes in k-Group
 
 ---
 
 ## 📂 Trees
 
-{{TREES}}
+- 🔲 Invert Binary Tree
+- 🔲 Maximum Depth of Binary Tree
+- 🔲 Diameter of Binary Tree
+- 🔲 Balanced Binary Tree
+- 🔲 Same Tree
+- 🔲 Subtree of Another Tree
+- 🔲 Lowest Common Ancestor of BST
+- 🔲 Binary Tree Level Order Traversal
+- 🔲 Binary Tree Right Side View
+- 🔲 Count Good Nodes in Binary Tree
+- 🔲 Validate Binary Search Tree
+- 🔲 Kth Smallest Element in a BST
+- 🔲 Construct Binary Tree from Preorder and Inorder Traversal
+- 🔲 Binary Tree Maximum Path Sum
+- 🔲 Serialize and Deserialize Binary Tree
 
 ---
 
 ## 📂 Tries
 
-{{TRIES}}
+- 🔲 Implement Trie (Prefix Tree)
+- 🔲 Design Add and Search Words Data Structure
+- 🔲 Word Search II
 
 ---
 
 ## 📂 Heap / Priority Queue
 
-{{HEAP_/_PRIORITY_QUEUE}}
+- 🔲 Kth Largest Element in a Stream
+- 🔲 Last Stone Weight
+- 🔲 K Closest Points to Origin
+- 🔲 Kth Largest Element in an Array
+- 🔲 Task Scheduler
+- 🔲 Design Twitter
 
 ---
 
 ## 📂 Backtracking
 
-{{BACKTRACKING}}
+- 🔲 Subsets
+- 🔲 Combination Sum
+- 🔲 Permutations
+- 🔲 N-Queens
+- 🔲 Word Search
+- 🔲 Palindrome Partitioning
+- 🔲 Letter Combinations of a Phone Number
 
 ---
 
 ## 📂 Graphs
 
-{{GRAPHS}}
+- 🔲 Number of Islands
+- 🔲 Clone Graph
+- 🔲 Max Area of Island
+- 🔲 Pacific Atlantic Water Flow
+- 🔲 Surrounded Regions
+- 🔲 Rotting Oranges
+- 🔲 Walls and Gates
+- 🔲 Course Schedule
+- 🔲 Course Schedule II
+- 🔲 Redundant Connection
+- 🔲 Graph Valid Tree
+- 🔲 Number of Connected Components in an Undirected Graph
 
 ---
 
 ## 📂 Advanced Graphs
 
-{{ADVANCED_GRAPHS}}
+- 🔲 Reconstruct Itinerary
+- 🔲 Alien Dictionary
+- 🔲 Cheapest Flights Within K Stops
+- 🔲 Network Delay Time
+- 🔲 Minimum Cost to Connect All Points
+- 🔲 Swim in Rising Water
+- 🔲 Word Ladder
 
 ---
 
 ## 📂1D Dynamic Programming
 
-{{1D_DYNAMIC_PROGRAMMING}}
+- 🔲 Climbing Stairs
+- 🔲 Min Cost Climbing Stairs
+- 🔲 House Robber
+- 🔲 House Robber II
+- 🔲 Longest Palindromic Substring
+- 🔲 Palindromic Substrings
+- 🔲 Decode Ways
+- 🔲 Coin Change
+- 🔲 Maximum Product Subarray
+- 🔲 Word Break
+- 🔲 Longest Increasing Subsequence
+- 🔲 Partition Equal Subset Sum
 
 ---
 
 ## 📂2D Dynamic Programming
 
-{{2D_DYNAMIC_PROGRAMMING}}
+- 🔲 Unique Paths
+- 🔲 Longest Common Subsequence
+- 🔲 Best Time to Buy and Sell Stock with Cooldown
+- 🔲 Coin Change II
+- 🔲 Target Sum
+- 🔲 Interleaving String
+- 🔲 Longest Increasing Path in a Matrix
+- 🔲 Distinct Subsequences
+- 🔲 Edit Distance
+- 🔲 Burst Balloons
+- 🔲 Regular Expression Matching
 
 ---
 
 ## 📂Greedy
 
-{{GREEDY}}
+- 🔲 Maximum Subarray
+- 🔲 Jump Game
+- 🔲 Jump Game II
+- 🔲 Gas Station
+- 🔲 Hand of Straights
+- 🔲 Merge Triplets to Form Target Triplet
+- 🔲 Partition Labels
+- 🔲 Valid Parenthesis String
 
 ---
 
 ## 📂Intervals
 
-{{INTERVALS}}
+- 🔲 Insert Interval
+- 🔲 Merge Intervals
+- 🔲 Non-overlapping Intervals
+- 🔲 Meeting Rooms
+- 🔲 Meeting Rooms II
+- 🔲 Minimum Interval to Include Each Query
 
 ---
 
 ## 📂Math & Geometry
 
-{{MATH_&_GEOMETRY}}
+- 🔲 Rotate Image
+- 🔲 Spiral Matrix
+- 🔲 Set Matrix Zeroes
+- 🔲 Happy Number
+- 🔲 Plus One
+- 🔲 Pow(x, n)
+- 🔲 Multiply Strings
+- 🔲 Detect Squares
 
 ---
 
 ## 📂Bit Manipulatio
 
-{{BIT_MANIPULATION}}
+- 🔲 Single Number
+- 🔲 Number of 1 Bits
+- 🔲 Counting Bits
+- 🔲 Missing Number
+- 🔲 Sum of Two Integers
+- 🔲 Reverse Bits
 
 ---
 
 ## 📂Advanced Topics
 
-{{ADVANCED_TOPICS}}
+- 🔲 LRU Cache
+- 🔲 LFU Cache
+- 🔲 Design Search Autocomplete System
+- 🔲 Design Add and Search Words Data Structure
+- 🔲 Design File System
+- 🔲 Design Tic-Tac-Toe
+- 🔲 Design Snake Game
 
 ---
 

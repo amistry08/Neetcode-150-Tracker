@@ -28,6 +28,7 @@ jobs:
         run: |
           git config --global user.name "amistry08"
           git config --global user.email "ayushmistry1998@gmail.com"
+          git remote set-url origin https://x-access-token:${PAT}@github.com/${{ github.repository }}
           git add README.md
           git commit -m "Update NeetCode progress" || echo "No changes"
-          git push
+          git push origin HEAD:main

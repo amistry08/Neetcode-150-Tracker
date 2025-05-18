@@ -14,7 +14,7 @@
     "Best Time to Buy and Sell Stock": true,
     "Longest Repeating Character Replacement": true,
     "Longest Substring Without Repeating Characters": true,
-    "Permutation in String": false
+    "Permutation in String": true
   },
   "Two Pointers": {
     "3Sum": true,

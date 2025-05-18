@@ -20,7 +20,7 @@
     "Best Time to Buy and Sell Stock": true,
     "Longest Substring Without Repeating Characters": true,
     "Longest Repeating Character Replacement": true,
-    "Permutation in String": true,
+    "Permutation in String": false,
     "Minimum Window Substring": false
   },
   "Stack": {

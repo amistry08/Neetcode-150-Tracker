@@ -2,19 +2,23 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `{{COMPLETED}} / 150 ✅`
+**Progress**: `6 / 150 ✅`
 
 ---
 
 ## 📂 Arrays & Hashing
 
-{{ARRAYS_HASHING}}
+- ✅ [Two Sum](solutions/arrays_hashing/two_sum.py)
+- ✅ [Group Anagrams](solutions/arrays_hashing/group_anagrams.py)
+- ✅ [Contains Duplicate](solutions/arrays_hashing/contains_duplicate.py)
+- ✅ Product of Array Except Self
 
 ---
 
 ## 📂 Two Pointers
 
-{{TWO_POINTERS}}
+- ✅ [Valid Palindrome](solutions/two_pointers/valid_palindrome.py)
+- ✅ Two Sum II - Input Array Is Sorted
 
 ---
 

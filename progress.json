@@ -1,190 +1,25 @@
 {
   "Arrays Hashing": {
+    "Contains Duplicate": true,
+    "Encode and Decode Strings": true,
+    "Group Anagrams": true,
+    "Longest Consecutive Sequence": true,
+    "Product of Array Except Self": true,
+    "Top K Frequent Elements": true,
     "Two Sum": true,
     "Valid Anagram": true,
-    "Group Anagrams": true,
-    "Top K Frequent Elements": true,
-    "Product of Array Except Self": true,
-    "Valid Sudoku": true,
-    "Encode and Decode Strings": true,
-    "Longest Consecutive Sequence": true
-  },
-  "Two Pointers": {
-    "Valid Palindrome": true,
-    "Two Sum II - Input Array Is Sorted": true,
-    "3Sum": true,
-    "Container With Most Water": true,
-    "Trapping Rain Water": true
+    "Valid Sudoku": true
   },
   "Sliding Window": {
     "Best Time to Buy and Sell Stock": true,
-    "Longest Substring Without Repeating Characters": true,
     "Longest Repeating Character Replacement": true,
-    "Permutation in String": true,
-    "Minimum Window Substring": false
+    "Longest Substring Without Repeating Characters": true
   },
-  "Stack": {
-    "Valid Parentheses": false,
-    "Min Stack": false,
-    "Evaluate Reverse Polish Notation": false,
-    "Generate Parentheses": false,
-    "Daily Temperatures": false,
-    "Car Fleet": false,
-    "Largest Rectangle in Histogram": false
-  },
-  "Binary Search": {
-    "Binary Search": false,
-    "Search a 2D Matrix": false,
-    "Koko Eating Bananas": false,
-    "Find Minimum in Rotated Sorted Array": false,
-    "Search in Rotated Sorted Array": false,
-    "Time Based Key-Value Store": false,
-    "Median of Two Sorted Arrays": false
-  },
-  "Linked List": {
-    "Reverse Linked List": false,
-    "Merge Two Sorted Lists": false,
-    "Reorder List": false,
-    "Remove Nth Node From End of List": false,
-    "Copy List with Random Pointer": false,
-    "Add Two Numbers": false,
-    "Linked List Cycle": false,
-    "LRU Cache": false,
-    "Merge K Sorted Lists": false,
-    "Reverse Nodes in k-Group": false
-  },
-  "Trees": {
-    "Invert Binary Tree": false,
-    "Maximum Depth of Binary Tree": false,
-    "Diameter of Binary Tree": false,
-    "Balanced Binary Tree": false,
-    "Same Tree": false,
-    "Subtree of Another Tree": false,
-    "Lowest Common Ancestor of BST": false,
-    "Binary Tree Level Order Traversal": false,
-    "Binary Tree Right Side View": false,
-    "Count Good Nodes in Binary Tree": false,
-    "Validate Binary Search Tree": false,
-    "Kth Smallest Element in a BST": false,
-    "Construct Binary Tree from Preorder and Inorder Traversal": false,
-    "Binary Tree Maximum Path Sum": false,
-    "Serialize and Deserialize Binary Tree": false
-  },
-  "Tries": {
-    "Implement Trie (Prefix Tree)": false,
-    "Design Add and Search Words Data Structure": false,
-    "Word Search II": false
-  },
-  "Heap / Priority Queue": {
-    "Kth Largest Element in a Stream": false,
-    "Last Stone Weight": false,
-    "K Closest Points to Origin": false,
-    "Kth Largest Element in an Array": false,
-    "Task Scheduler": false,
-    "Design Twitter": false
-  },
-  "Backtracking": {
-    "Subsets": false,
-    "Combination Sum": false,
-    "Permutations": false,
-    "N-Queens": false,
-    "Word Search": false,
-    "Palindrome Partitioning": false,
-    "Letter Combinations of a Phone Number": false
-  },
-  "Graphs": {
-    "Number of Islands": false,
-    "Clone Graph": false,
-    "Max Area of Island": false,
-    "Pacific Atlantic Water Flow": false,
-    "Surrounded Regions": false,
-    "Rotting Oranges": false,
-    "Walls and Gates": false,
-    "Course Schedule": false,
-    "Course Schedule II": false,
-    "Redundant Connection": false,
-    "Graph Valid Tree": false,
-    "Number of Connected Components in an Undirected Graph": false
-  },
-  "Advanced Graphs": {
-    "Reconstruct Itinerary": false,
-    "Alien Dictionary": false,
-    "Cheapest Flights Within K Stops": false,
-    "Network Delay Time": false,
-    "Minimum Cost to Connect All Points": false,
-    "Swim in Rising Water": false,
-    "Word Ladder": false
-  },
-  "1D Dynamic Programming": {
-    "Climbing Stairs": false,
-    "Min Cost Climbing Stairs": false,
-    "House Robber": false,
-    "House Robber II": false,
-    "Longest Palindromic Substring": false,
-    "Palindromic Substrings": false,
-    "Decode Ways": false,
-    "Coin Change": false,
-    "Maximum Product Subarray": false,
-    "Word Break": false,
-    "Longest Increasing Subsequence": false,
-    "Partition Equal Subset Sum": false
-  },
-  "2D Dynamic Programming": {
-    "Unique Paths": false,
-    "Longest Common Subsequence": false,
-    "Best Time to Buy and Sell Stock with Cooldown": false,
-    "Coin Change II": false,
-    "Target Sum": false,
-    "Interleaving String": false,
-    "Longest Increasing Path in a Matrix": false,
-    "Distinct Subsequences": false,
-    "Edit Distance": false,
-    "Burst Balloons": false,
-    "Regular Expression Matching": false
-  },
-  "Greedy": {
-    "Maximum Subarray": false,
-    "Jump Game": false,
-    "Jump Game II": false,
-    "Gas Station": false,
-    "Hand of Straights": false,
-    "Merge Triplets to Form Target Triplet": false,
-    "Partition Labels": false,
-    "Valid Parenthesis String": false
-  },
-  "Intervals": {
-    "Insert Interval": false,
-    "Merge Intervals": false,
-    "Non-overlapping Intervals": false,
-    "Meeting Rooms": false,
-    "Meeting Rooms II": false,
-    "Minimum Interval to Include Each Query": false
-  },
-  "Math & Geometry": {
-    "Rotate Image": false,
-    "Spiral Matrix": false,
-    "Set Matrix Zeroes": false,
-    "Happy Number": false,
-    "Plus One": false,
-    "Pow(x, n)": false,
-    "Multiply Strings": false,
-    "Detect Squares": false
-  },
-  "Bit Manipulation": {
-    "Single Number": false,
-    "Number of 1 Bits": false,
-    "Counting Bits": false,
-    "Missing Number": false,
-    "Sum of Two Integers": false,
-    "Reverse Bits": false
-  },
-  "Advanced Topics": {
-    "LRU Cache": false,
-    "LFU Cache": false,
-    "Design Search Autocomplete System": false,
-    "Design Add and Search Words Data Structure": false,
-    "Design File System": false,
-    "Design Tic-Tac-Toe": false,
-    "Design Snake Game": false
+  "Two Pointers": {
+    "3Sum": true,
+    "Container With Most Water": true,
+    "Trapping Rain Water": true,
+    "Two Sum II - Input Array Is Sorted": true,
+    "Valid Palindrome": true
   }
 }

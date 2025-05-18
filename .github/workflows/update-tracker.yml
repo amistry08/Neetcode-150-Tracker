@@ -23,8 +23,6 @@ jobs:
           python .github/scripts/generate_readme.py
 
       - name: Commit and push
-        env:
-          PAT: ${{secrets.PAT}}
         run: |
           git config --global user.name "amistry08"
           git config --global user.email "ayushmistry1998@gmail.com"

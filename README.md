@@ -1,87 +1,43 @@
-# NeetCode 150 Progress
+# 🧠 NeetCode 150 Tracker
 
-### Arrays Hashing (9/9) [100%]
-[██████████]  
+Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-<<<<<<< Updated upstream
 **Progress**: `{{COMPLETED}} / 150 ✅`
-=======
-### Sliding Window (4/4) [100%]
-[██████████]  
->>>>>>> Stashed changes
 
-### Two Pointers (5/5) [100%]
-[██████████]  
+---
 
-### Stack (0/7) [0%]
-[░░░░░░░░░░]  
+## 📂 Arrays & Hashing
 
-<<<<<<< Updated upstream
 {{ARRAYS_HASHING}}
-=======
-### Binary Search (0/7) [0%]
-[░░░░░░░░░░]  
->>>>>>> Stashed changes
 
-### Linked List (0/10) [0%]
-[░░░░░░░░░░]  
+---
 
-### Trees (0/15) [0%]
-[░░░░░░░░░░]  
+## 📂 Two Pointers
 
-<<<<<<< Updated upstream
 {{TWO_POINTERS}}
-=======
-### Tries (0/3) [0%]
-[░░░░░░░░░░]  
->>>>>>> Stashed changes
 
-### Heap / Priority Queue (0/6) [0%]
-[░░░░░░░░░░]  
+---
 
-### Backtracking (0/7) [0%]
-[░░░░░░░░░░]  
+## 📂 Sliding Window
 
-<<<<<<< Updated upstream
 {{SLIDING_WINDOW}}
-=======
-### Graphs (0/12) [0%]
-[░░░░░░░░░░]  
->>>>>>> Stashed changes
 
-### Advanced Graphs (0/7) [0%]
-[░░░░░░░░░░]  
+---
 
-### 1D Dynamic Programming (0/12) [0%]
-[░░░░░░░░░░]  
+## 📂 Stack
 
-<<<<<<< Updated upstream
 {{STACK}}
-=======
-### 2D Dynamic Programming (0/11) [0%]
-[░░░░░░░░░░]  
->>>>>>> Stashed changes
 
-### Greedy (0/8) [0%]
-[░░░░░░░░░░]  
+---
 
-### Intervals (0/6) [0%]
-[░░░░░░░░░░]  
+## 📂 Binary Search
 
-<<<<<<< Updated upstream
 {{BINARY_SEARCH}}
-=======
-### Math & Geometry (0/8) [0%]
-[░░░░░░░░░░]  
->>>>>>> Stashed changes
 
-### Bit Manipulation (0/6) [0%]
-[░░░░░░░░░░]  
+---
 
-### Advanced Topics (0/7) [0%]
-[░░░░░░░░░░]  
+## 📂 Linked List
 
-<<<<<<< Updated upstream
 {{LINKED_LIST}}
 
 ---
@@ -165,7 +121,3 @@
 ---
 
 _Solutions are organized by category in the `solutions/` folder._
-=======
-
-**Total Solved:** 18/150 (12%)
->>>>>>> Stashed changes

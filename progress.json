@@ -15,7 +15,7 @@
     "Longest Repeating Character Replacement": true,
     "Longest Substring Without Repeating Characters": true,
     "Permutation in String": true,
-    "Mininum Window Substring": false,
+    "Mininum Window Substring": true,
     "Sliding Window Maximum": false
   },
   "Two Pointers": {

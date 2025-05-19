@@ -16,7 +16,7 @@
     "Longest Substring Without Repeating Characters": true,
     "Permutation in String": true,
     "Mininum Window Substring": true,
-    "Sliding Window Maximum": false
+    "Sliding Window Maximum": true
   },
   "Two Pointers": {
     "3Sum": true,

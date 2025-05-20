@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `21 / 150 ✅`
+**Progress**: `20 / 150 ✅`
 
 ---
 
@@ -25,7 +25,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [3Sum](solutions/two_pointers/3sum.py)
 - ✅ [Container With Most Water](solutions/two_pointers/container_with_most_water.py)
 - ✅ [Trapping Rain Water](solutions/two_pointers/trapping_rain_water.py)
-- ✅ [Two Integer sum II](solutions/two_pointers/two_integer_sum_ii.py)
+- ✅ Two Integer sum II
 - ✅ [Valid Palindrome](solutions/two_pointers/valid_palindrome.py)
 
 ---
@@ -43,7 +43,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
 ## 📂 Stack
 
-- ✅ [Valid Parentheses](solutions/stack/valid_parentheses.py)
+- 🔲 [Valid Parentheses](solutions/stack/valid_parentheses.py)
 - 🔲 Min Stack
 - 🔲 Evaluate Reverse Polish Notation
 - 🔲 Generate Parentheses

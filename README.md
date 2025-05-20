@@ -25,7 +25,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [3Sum](solutions/two_pointers/3sum.py)
 - ✅ [Container With Most Water](solutions/two_pointers/container_with_most_water.py)
 - ✅ [Trapping Rain Water](solutions/two_pointers/trapping_rain_water.py)
-- ✅ Two Integer sum II
+- ✅ [Two Integer sum II](solutions/two_pointers/two_integer_sum_ii.py)
 - ✅ [Valid Palindrome](solutions/two_pointers/valid_palindrome.py)
 
 ---

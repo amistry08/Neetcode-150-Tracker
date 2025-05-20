@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `20 / 150 ✅`
+**Progress**: `21 / 150 ✅`
 
 ---
 
@@ -43,7 +43,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
 ## 📂 Stack
 
-- 🔲 [Valid Parentheses](solutions/stack/valid_parentheses.py)
+- ✅ [Valid Parentheses](solutions/stack/valid_parentheses.py)
 - 🔲 Min Stack
 - 🔲 Evaluate Reverse Polish Notation
 - 🔲 Generate Parentheses

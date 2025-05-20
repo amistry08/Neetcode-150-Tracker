@@ -15,7 +15,7 @@
     "Longest Repeating Character Replacement": true,
     "Longest Substring Without Repeating Characters": true,
     "Permutation in String": true,
-    "Mininum Window Substring": true,
+    "Minimum Window Substring": true,
     "Sliding Window Maximum": true
   },
   "Two Pointers": {
@@ -26,7 +26,7 @@
     "Valid Palindrome": true
   },
   "Stack": {
-    "Valid Parentheses": false,
+    "Valid Parentheses": true,
     "Min Stack": false,
     "Evaluate Reverse Polish Notation": false,
     "Generate Parentheses": false,

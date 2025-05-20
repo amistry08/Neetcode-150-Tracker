@@ -24,7 +24,7 @@ for category, problems in data.items():
 
     category_blocks[key] = "\n".join(block)
 
-with open("README.md", "r", encoding="utf-8") as f:
+with open("README.template.md", "r", encoding="utf-8") as f:
     template = f.read()
 
 template = template.replace("{{COMPLETED}}", str(completed))

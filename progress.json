@@ -26,7 +26,7 @@
     "Valid Palindrome": true
   },
   "Stack": {
-    "Valid Parentheses": true,
+    "Valid Parentheses": false,
     "Min Stack": false,
     "Evaluate Reverse Polish Notation": false,
     "Generate Parentheses": false,

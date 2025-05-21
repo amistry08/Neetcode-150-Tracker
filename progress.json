@@ -27,10 +27,10 @@
   },
   "Stack": {
     "Valid Parentheses": true,
-    "Min Stack": false,
-    "Evaluate Reverse Polish Notation": false,
-    "Generate Parentheses": false,
-    "Daily Temperatures": false,
+    "Min Stack": true,
+    "Evaluate Reverse Polish Notation": true,
+    "Generate Parentheses": true,
+    "Daily Temperatures": true,
     "Car Fleet": false,
     "Largest Rectangle in Histogram": false
   },

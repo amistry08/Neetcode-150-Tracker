@@ -27,11 +27,11 @@
   },
   "Stack": {
     "Valid Parentheses": true,
-    "Min Stack": true,
+    "Minimum Stack": true,
     "Evaluate Reverse Polish Notation": true,
     "Generate Parentheses": true,
     "Daily Temperatures": true,
-    "Car Fleet": false,
+    "Car Fleet": true,
     "Largest Rectangle in Histogram": false
   },
   "Binary Search": {

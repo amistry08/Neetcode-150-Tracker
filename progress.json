@@ -32,7 +32,7 @@
     "Generate Parentheses": true,
     "Daily Temperatures": true,
     "Car Fleet": true,
-    "Largest Rectangle in Histogram": false
+    "Largest Rectangle in Histogram": true
   },
   "Binary Search": {
     "Binary Search": false,

@@ -35,8 +35,8 @@
     "Largest Rectangle in Histogram": true
   },
   "Binary Search": {
-    "Binary Search": false,
-    "Search a 2D Matrix": false,
+    "Binary Search": true,
+    "Search a 2D Matrix": true,
     "Koko Eating Bananas": false,
     "Find Minimum in Rotated Sorted Array": false,
     "Search in Rotated Sorted Array": false,

@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `26 / 150 ✅`
+**Progress**: `27 / 150 ✅`
 
 ---
 
@@ -49,7 +49,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [Generate Parentheses](solutions/stack/generate_parentheses.py)
 - ✅ [Daily Temperatures](solutions/stack/daily_temperatures.py)
 - ✅ [Car Fleet](solutions/stack/car_fleet.py)
-- 🔲 Largest Rectangle in Histogram
+- ✅ [Largest Rectangle in Histogram](solutions/stack/largest_rectangle_in_histogram.py)
 
 ---
 

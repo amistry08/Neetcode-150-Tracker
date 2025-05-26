@@ -37,7 +37,7 @@
   "Binary Search": {
     "Binary Search": true,
     "Search a 2D Matrix": true,
-    "Koko Eating Bananas": false,
+    "Koko Eating Bananas": true,
     "Find Minimum in Rotated Sorted Array": false,
     "Search in Rotated Sorted Array": false,
     "Time Based Key-Value Store": false,

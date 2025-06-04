@@ -40,8 +40,8 @@
     "Koko Eating Bananas": true,
     "Find Minimum in Rotated Sorted Array": true,
     "Search in Rotated Sorted Array": true,
-    "Time Based Key-Value Store": false,
-    "Median of Two Sorted Arrays": false
+    "Time Based Key-Value Store": true,
+    "Median of Two Sorted Arrays": true
   },
   "Linked List": {
     "Reverse Linked List": false,

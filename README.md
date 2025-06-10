@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `36 / 150 ✅`
+**Progress**: `37 / 150 ✅`
 
 ---
 
@@ -69,6 +69,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
 - ✅ Reverse Linked List
 - ✅ [Merge Two Sorted Lists](solutions/linked_list/merge_two_sorted_lists.py)
+- ✅ [Linked List Cycle Detection](solutions/linked_list/linked_list_cycle_detection.py)
 - 🔲 Reorder List
 - 🔲 Remove Nth Node From End of List
 - 🔲 Copy List with Random Pointer

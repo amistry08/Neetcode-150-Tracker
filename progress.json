@@ -44,7 +44,7 @@
     "Median of Two Sorted Arrays": true
   },
   "Linked List": {
-    "Reverse Linked List": false,
+    "Reverse Linked List": true,
     "Merge Two Sorted Lists": false,
     "Reorder List": false,
     "Remove Nth Node From End of List": false,

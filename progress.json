@@ -45,7 +45,7 @@
   },
   "Linked List": {
     "Reverse Linked List": true,
-    "Merge Two Sorted Lists": false,
+    "Merge Two Sorted Lists": true,
     "Reorder List": false,
     "Remove Nth Node From End of List": false,
     "Copy List with Random Pointer": false,

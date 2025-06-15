@@ -61,17 +61,17 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [Find Minimum in Rotated Sorted Array](solutions/binary_search/find_minimum_in_rotated_sorted_array.py)
 - ✅ [Search in Rotated Sorted Array](solutions/binary_search/search_in_rotated_sorted_array.py)
 - ✅ Time Based Key-Value Store
-- ✅ Median of Two Sorted Arrays
+- ✅ [Median of Two Sorted Arrays](solutions/binary_search/median_of_two_sorted_arrays.py)
 
 ---
 
 ## 📂 Linked List
 
-- ✅ Reverse Linked List
+- ✅ [Reverse Linked List](solutions/linked_list/reverse_linked_list.py)
 - ✅ [Merge Two Sorted Lists](solutions/linked_list/merge_two_sorted_lists.py)
 - ✅ [Linked List Cycle Detection](solutions/linked_list/linked_list_cycle_detection.py)
-- ✅ Reorder List
 - ✅ Remove Nth Node From End of List
+- ✅ Reorder List
 - 🔲 Copy List with Random Pointer
 - 🔲 Add Two Numbers
 - 🔲 Linked List Cycle

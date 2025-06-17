@@ -40,7 +40,7 @@
     "Koko Eating Bananas": true,
     "Find Minimum in Rotated Sorted Array": true,
     "Search in Rotated Sorted Array": true,
-    "Time Based Key Value Store": true,
+    "Time Based Key Value store": true,
     "Median of Two Sorted Arrays": true
   },
   "Linked List": {
@@ -48,10 +48,10 @@
     "Merge Two Sorted Lists": true,
     "Linked List Cycle Detection": true,
     "Reorder List": true,
-    "Remove Nth Node From End of List": true,
+    "Remove Nth Node from end of List": true,
     "Copy List with Random Pointer": true,
     "Add Two Numbers": true,
-    "Linked List Cycle": false,
+    "Linked List Cycle": true,
     "LRU Cache": false,
     "Merge K Sorted Lists": false,
     "Reverse Nodes in k-Group": false

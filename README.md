@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `41 / 150 ✅`
+**Progress**: `42 / 150 ✅`
 
 ---
 
@@ -60,7 +60,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [Koko Eating Bananas](solutions/binary_search/koko_eating_bananas.py)
 - ✅ [Find Minimum in Rotated Sorted Array](solutions/binary_search/find_minimum_in_rotated_sorted_array.py)
 - ✅ [Search in Rotated Sorted Array](solutions/binary_search/search_in_rotated_sorted_array.py)
-- ✅ Time Based Key Value Store
+- ✅ Time Based Key Value store
 - ✅ [Median of Two Sorted Arrays](solutions/binary_search/median_of_two_sorted_arrays.py)
 
 ---
@@ -71,10 +71,10 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [Merge Two Sorted Lists](solutions/linked_list/merge_two_sorted_lists.py)
 - ✅ [Linked List Cycle Detection](solutions/linked_list/linked_list_cycle_detection.py)
 - ✅ Reorder List
-- ✅ Remove Nth Node From End of List
+- ✅ Remove Nth Node from end of List
 - ✅ [Copy List with Random Pointer](solutions/linked_list/copy_list_with_random_pointer.py)
 - ✅ [Add Two Numbers](solutions/linked_list/add_two_numbers.py)
-- 🔲 Linked List Cycle
+- ✅ [Linked List Cycle](solutions/linked_list/linked_list_cycle.py)
 - 🔲 LRU Cache
 - 🔲 Merge K Sorted Lists
 - 🔲 Reverse Nodes in k-Group

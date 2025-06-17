@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `39 / 150 ✅`
+**Progress**: `40 / 150 ✅`
 
 ---
 
@@ -60,7 +60,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [Koko Eating Bananas](solutions/binary_search/koko_eating_bananas.py)
 - ✅ [Find Minimum in Rotated Sorted Array](solutions/binary_search/find_minimum_in_rotated_sorted_array.py)
 - ✅ [Search in Rotated Sorted Array](solutions/binary_search/search_in_rotated_sorted_array.py)
-- ✅ Time Based Key-Value Store
+- ✅ Time Based Key Value Store
 - ✅ [Median of Two Sorted Arrays](solutions/binary_search/median_of_two_sorted_arrays.py)
 
 ---
@@ -70,9 +70,9 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [Reverse Linked List](solutions/linked_list/reverse_linked_list.py)
 - ✅ [Merge Two Sorted Lists](solutions/linked_list/merge_two_sorted_lists.py)
 - ✅ [Linked List Cycle Detection](solutions/linked_list/linked_list_cycle_detection.py)
-- ✅ Remove Nth Node From End of List
 - ✅ Reorder List
-- 🔲 Copy List with Random Pointer
+- ✅ Remove Nth Node From End of List
+- ✅ [Copy List with Random Pointer](solutions/linked_list/copy_list_with_random_pointer.py)
 - 🔲 Add Two Numbers
 - 🔲 Linked List Cycle
 - 🔲 LRU Cache

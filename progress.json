@@ -50,7 +50,7 @@
     "Reorder List": true,
     "Remove Nth Node From End of List": true,
     "Copy List with Random Pointer": true,
-    "Add Two Numbers": false,
+    "Add Two Numbers": true,
     "Linked List Cycle": false,
     "LRU Cache": false,
     "Merge K Sorted Lists": false,

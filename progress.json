@@ -52,7 +52,7 @@
     "Copy List with Random Pointer": true,
     "Add Two Numbers": true,
     "Linked List Cycle": true,
-    "LRU Cache": false,
+    "LRU Cache": true,
     "Merge K Sorted Lists": false,
     "Reverse Nodes in k-Group": false
   },

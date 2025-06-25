@@ -53,8 +53,8 @@
     "Add Two Numbers": true,
     "Linked List Cycle": true,
     "LRU Cache": true,
-    "Merge K Sorted Lists": false,
-    "Reverse Nodes in k-Group": false
+    "Merge K Sorted Lists": true,
+    "Reverse Nodes in k Group": true
   },
   "Trees": {
     "Invert Binary Tree": false,

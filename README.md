@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `43 / 150 ✅`
+**Progress**: `45 / 150 ✅`
 
 ---
 
@@ -76,8 +76,8 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [Add Two Numbers](solutions/linked_list/add_two_numbers.py)
 - ✅ [Linked List Cycle](solutions/linked_list/linked_list_cycle.py)
 - ✅ [LRU Cache](solutions/linked_list/lru_cache.py)
-- 🔲 Merge K Sorted Lists
-- 🔲 Reverse Nodes in k-Group
+- ✅ [Merge K Sorted Lists](solutions/linked_list/merge_k_sorted_lists.py)
+- ✅ [Reverse Nodes in k Group](solutions/linked_list/reverse_nodes_in_k_group.py)
 
 ---
 

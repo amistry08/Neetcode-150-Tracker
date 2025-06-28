@@ -57,9 +57,9 @@
     "Reverse Nodes in k Group": true
   },
   "Trees": {
-    "Invert Binary Tree": false,
-    "Maximum Depth of Binary Tree": false,
-    "Diameter of Binary Tree": false,
+    "Invert Binary Tree": true,
+    "Maximum Depth of Binary Tree": true,
+    "Diameter of Binary Tree": true,
     "Balanced Binary Tree": false,
     "Same Tree": false,
     "Subtree of Another Tree": false,

@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `48 / 150 ✅`
+**Progress**: `49 / 150 ✅`
 
 ---
 
@@ -86,7 +86,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ Invert Binary Tree
 - ✅ Maximum Depth of Binary Tree
 - ✅ Diameter of Binary Tree
-- 🔲 Balanced Binary Tree
+- ✅ Balanced Binary Tree
 - 🔲 Same Tree
 - 🔲 Subtree of Another Tree
 - 🔲 Lowest Common Ancestor of BST

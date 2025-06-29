@@ -60,7 +60,7 @@
     "Invert Binary Tree": true,
     "Maximum Depth of Binary Tree": true,
     "Diameter of Binary Tree": true,
-    "Balanced Binary Tree": false,
+    "Balanced Binary Tree": true,
     "Same Tree": false,
     "Subtree of Another Tree": false,
     "Lowest Common Ancestor of BST": false,

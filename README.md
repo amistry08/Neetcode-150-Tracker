@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `51 / 150 ✅`
+**Progress**: `52 / 150 ✅`
 
 ---
 
@@ -89,7 +89,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ Balanced Binary Tree
 - ✅ Same Tree
 - ✅ Subtree of Another Tree
-- 🔲 Lowest Common Ancestor of BST
+- ✅ Lowest Common Ancestor of BST
 - 🔲 Binary Tree Level Order Traversal
 - 🔲 Binary Tree Right Side View
 - 🔲 Count Good Nodes in Binary Tree

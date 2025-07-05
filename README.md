@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `53 / 150 ✅`
+**Progress**: `54 / 150 ✅`
 
 ---
 
@@ -91,7 +91,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ Subtree of Another Tree
 - ✅ Lowest Common Ancestor of BST
 - ✅ Binary Tree Level Order Traversal
-- 🔲 Binary Tree Right Side View
+- ✅ Binary Tree Right Side View
 - 🔲 Count Good Nodes in Binary Tree
 - 🔲 Validate Binary Search Tree
 - 🔲 Kth Smallest Element in a BST

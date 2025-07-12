@@ -68,7 +68,7 @@
     "Binary Tree Right Side View": true,
     "Count Good Nodes in Binary Tree": true,
     "Validate Binary Search Tree": true,
-    "Kth Smallest Element in a BST": false,
+    "Kth Smallest Element in a BST": true,
     "Construct Binary Tree from Preorder and Inorder Traversal": false,
     "Binary Tree Maximum Path Sum": false,
     "Serialize and Deserialize Binary Tree": false

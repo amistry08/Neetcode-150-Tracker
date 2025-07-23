@@ -71,7 +71,7 @@
     "Kth Smallest Element in a BST": true,
     "Construct Binary Tree from Preorder and Inorder Traversal": true,
     "Binary Tree Maximum Path Sum": true,
-    "Serialize and Deserialize Binary Tree": false
+    "Serialize and Deserialize Binary Tree": true
   },
   "Tries": {
     "Implement Trie (Prefix Tree)": false,

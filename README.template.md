@@ -56,7 +56,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
 ## 📂 Heap / Priority Queue
 
-{{HEAP_/_PRIORITY_QUEUE}}
+{{HEAP_AND_PRIORITY_QUEUE}}
 
 ---
 

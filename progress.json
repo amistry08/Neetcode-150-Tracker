@@ -78,9 +78,9 @@
     "Design Add and Search Words Data Structure": false,
     "Word Search II": false
   },
-  "Heap / Priority Queue": {
-    "Kth Largest Element in a Stream": false,
-    "Last Stone Weight": false,
+  "Heap and Priority Queue": {
+    "Kth Largest Element in a Stream": true,
+    "Last Stone Weight": true,
     "K Closest Points to Origin": false,
     "Kth Largest Element in an Array": false,
     "Task Scheduler": false,

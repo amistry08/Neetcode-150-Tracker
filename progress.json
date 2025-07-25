@@ -39,22 +39,27 @@
     "Search a 2D Matrix": true,
     "Koko Eating Bananas": true,
     "Find Minimum in Rotated Sorted Array": true,
-    "Search in Rotated Sorted Array": true,
     "Time Based Key Value store": true,
+    "Search in Rotated Sorted Array": true,
     "Median of Two Sorted Arrays": true
   },
   "Linked List": {
     "Reverse Linked List": true,
     "Merge Two Sorted Lists": true,
     "Linked List Cycle Detection": true,
-    "Reorder List": true,
     "Remove Nth Node from end of List": true,
+    "Reorder List": true,
     "Copy List with Random Pointer": true,
     "Add Two Numbers": true,
     "Linked List Cycle": true,
     "LRU Cache": true,
     "Merge K Sorted Lists": true,
     "Reverse Nodes in k Group": true
+  },
+  "Tries": {
+    "Implement Trie (Prefix Tree)": false,
+    "Design Add and Search Words Data Structure": false,
+    "Word Search II": false
   },
   "Trees": {
     "Invert Binary Tree": true,
@@ -72,11 +77,6 @@
     "Construct Binary Tree from Preorder and Inorder Traversal": true,
     "Binary Tree Maximum Path Sum": true,
     "Serialize and Deserialize Binary Tree": true
-  },
-  "Tries": {
-    "Implement Trie (Prefix Tree)": false,
-    "Design Add and Search Words Data Structure": false,
-    "Word Search II": false
   },
   "Heap and Priority Queue": {
     "Kth Largest Element in a Stream": true,

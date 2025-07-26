@@ -83,7 +83,7 @@
     "Last Stone Weight": true,
     "K Closest Points to Origin": true,
     "Kth Largest Element in an Array": true,
-    "Task Scheduler": false,
+    "Task Scheduler": true,
     "Design Twitter": false
   },
   "Backtracking": {

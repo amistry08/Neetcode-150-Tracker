@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `65 / 150 ✅`
+**Progress**: `67 / 150 ✅`
 
 ---
 
@@ -116,7 +116,8 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [K Closest Points to Origin](solutions/heap_and_priority_queue/k_closest_points_to_origin.py)
 - ✅ Kth Largest Element in an Array
 - ✅ [Task Scheduler](solutions/heap_and_priority_queue/task_scheduler.py)
-- 🔲 Design Twitter
+- ✅ [Design Twitter](solutions/heap_and_priority_queue/design_twitter.py)
+- ✅ [Find Median from Data Stream](solutions/heap_and_priority_queue/find_median_from_data_stream.py)
 
 ---
 

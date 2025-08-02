@@ -84,7 +84,8 @@
     "K Closest Points to Origin": true,
     "Kth Largest Element in an Array": true,
     "Task Scheduler": true,
-    "Design Twitter": false
+    "Design Twitter": true,
+    "Find Median from Data Stream": true
   },
   "Backtracking": {
     "Subsets": false,

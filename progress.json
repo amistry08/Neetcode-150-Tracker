@@ -88,7 +88,7 @@
     "Find Median from Data Stream": true
   },
   "Backtracking": {
-    "Subsets": false,
+    "Subsets": true,
     "Combination Sum": false,
     "Permutations": false,
     "N-Queens": false,

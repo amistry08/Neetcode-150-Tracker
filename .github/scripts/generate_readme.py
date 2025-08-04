@@ -2,6 +2,8 @@ import json
 import os
 import re
 
+os.chdir(os.path.abspath(os.path.join(os.path.dirname(__file__), "../../")))
+
 def normalize_title(title):
     """Normalize the title to create a valid filename."""
     title = title.lower()

@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `68 / 150 ✅`
+**Progress**: `67 / 150 ✅`
 
 ---
 
@@ -123,7 +123,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
 ## 📂 Backtracking
 
-- ✅ Subsets
+- 🔲 [Subsets](solutions/backtracking/subsets.py)
 - 🔲 Combination Sum
 - 🔲 Permutations
 - 🔲 N-Queens

@@ -1,5 +1,13 @@
 import json
 import os
+import re
+
+def normalize_title(title):
+    """Normalize the title to create a valid filename."""
+    title = title.lower()
+    title = title.replace(" ", "_")
+    title = re.sub(r"[^a-z0-9_]", "", title)  # remove anything not alphanumeric or underscore
+    return title + ".py"
 
 with open("progress.json", "r", encoding="utf-8") as f:
     data = json.load(f)
@@ -16,9 +24,13 @@ for category, problems in data.items():
         completed += int(done)
         emoji = "✅" if done else "🔲"
 
-        filename = title.lower().replace(" ", "_").replace("-", "").replace("(", "").replace(")", "") + ".py"
+        filename = normalize_title(title)
         filepath = f"solutions/{folder}/{filename}"
         link = f"[{title}]({filepath})" if os.path.exists(filepath) else f"{title}"
+
+        if done and not os.path.exists(filepath):
+            print(f"⚠️ File not found: {filepath} (expected for: '{title}')")
+
 
         block.append(f"- {emoji} {link}")
 

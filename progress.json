@@ -89,7 +89,7 @@
   },
   "Backtracking": {
     "Subsets": true,
-    "Combination Sum": false,
+    "Combination Sum": true,
     "Permutations": false,
     "N-Queens": false,
     "Word Search": false,

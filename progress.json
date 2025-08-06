@@ -90,6 +90,7 @@
   "Backtracking": {
     "Subsets": true,
     "Combination Sum": true,
+    "Combination Sum II": true,
     "Permutations": false,
     "N-Queens": false,
     "Word Search": false,

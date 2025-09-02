@@ -91,7 +91,7 @@
     "Subsets": true,
     "Combination Sum": true,
     "Combination Sum II": true,
-    "Permutations": false,
+    "Permutations": true,
     "N-Queens": false,
     "Word Search": false,
     "Palindrome Partitioning": false,

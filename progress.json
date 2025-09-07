@@ -93,7 +93,7 @@
     "Combination Sum II": true,
     "Permutations": true,
     "Subsets II": true,
-    "N-Queens": false,
+    "N-Queens": true,
     "Word Search": true,
     "Palindrome Partitioning": true,
     "Letter Combinations of a Phone Number": true

@@ -94,8 +94,8 @@
     "Permutations": true,
     "Subsets II": true,
     "N-Queens": false,
-    "Word Search": false,
-    "Palindrome Partitioning": false,
+    "Word Search": true,
+    "Palindrome Partitioning": true,
     "Letter Combinations of a Phone Number": false
   },
   "Graphs": {

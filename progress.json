@@ -96,7 +96,7 @@
     "N-Queens": false,
     "Word Search": true,
     "Palindrome Partitioning": true,
-    "Letter Combinations of a Phone Number": false
+    "Letter Combinations of a Phone Number": true
   },
   "Graphs": {
     "Number of Islands": false,

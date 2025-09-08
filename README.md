@@ -83,7 +83,21 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
 ## 📂 Trees
 
-{{TREES}}
+- ✅ [Invert Binary Tree](solutions/tree/invert_binary_tree.py)
+- ✅ [Maximum Depth of Binary Tree](solutions/tree/maximum_depth_of_binary_tree.py)
+- ✅ [Diameter of Binary Tree](solutions/tree/diameter_of_binary_tree.py)
+- ✅ [Balanced Binary Tree](solutions/tree/balanced_binary_tree.py)
+- ✅ [Same Tree](solutions/tree/same_tree.py)
+- ✅ [Subtree of Another Tree](solutions/tree/subtree_of_another_tree.py)
+- ✅ Lowest Common Ancestor of BST
+- ✅ [Binary Tree Level Order Traversal](solutions/tree/binary_tree_level_order_traversal.py)
+- ✅ [Binary Tree Right Side View](solutions/tree/binary_tree_right_side_view.py)
+- ✅ [Count Good Nodes in Binary Tree](solutions/tree/count_good_nodes_in_binary_tree.py)
+- ✅ [Validate Binary Search Tree](solutions/tree/validate_binary_search_tree.py)
+- ✅ [Kth Smallest Element in a BST](solutions/tree/kth_smallest_element_in_a_bst.py)
+- ✅ [Construct Binary Tree from Preorder and Inorder Traversal](solutions/tree/construct_binary_tree_from_preorder_and_inorder_traversal.py)
+- ✅ [Binary Tree Maximum Path Sum](solutions/tree/binary_tree_maximum_path_sum.py)
+- ✅ [Serialize and Deserialize Binary Tree](solutions/tree/serialize_and_deserialize_binary_tree.py)
 
 ---
 
@@ -100,7 +114,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [Kth Largest Element in a Stream](solutions/heap_and_priority_queue/kth_largest_element_in_a_stream.py)
 - ✅ [Last Stone Weight](solutions/heap_and_priority_queue/last_stone_weight.py)
 - ✅ [K Closest Points to Origin](solutions/heap_and_priority_queue/k_closest_points_to_origin.py)
-- ✅ Kth Largest Element in Array
+- ✅ [Kth Largest Element in an Array](solutions/heap_and_priority_queue/kth_largest_element_in_an_array.py)
 - ✅ [Task Scheduler](solutions/heap_and_priority_queue/task_scheduler.py)
 - ✅ [Design Twitter](solutions/heap_and_priority_queue/design_twitter.py)
 - ✅ [Find Median from Data Stream](solutions/heap_and_priority_queue/find_median_from_data_stream.py)

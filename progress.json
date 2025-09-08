@@ -39,7 +39,7 @@
     "Search a 2D Matrix": true,
     "Koko Eating Bananas": true,
     "Find Minimum in Rotated Sorted Array": true,
-    "Time Based Key Value store": true,
+    "Time Based KeyValue Store": true,
     "Search in Rotated Sorted Array": true,
     "Median of Two Sorted Arrays": true
   },
@@ -47,8 +47,8 @@
     "Reverse Linked List": true,
     "Merge Two Sorted Lists": true,
     "Linked List Cycle Detection": true,
-    "Remove Nth Node from end of List": true,
-    "Reorder List": true,
+    "Remove Nth Node From End": true,
+    "Reorder The List": true,
     "Copy List with Random Pointer": true,
     "Add Two Numbers": true,
     "Linked List Cycle": true,
@@ -61,7 +61,7 @@
     "Design Add and Search Words Data Structure": false,
     "Word Search II": false
   },
-  "Trees": {
+  "Tree": {
     "Invert Binary Tree": true,
     "Maximum Depth of Binary Tree": true,
     "Diameter of Binary Tree": true,
@@ -82,7 +82,7 @@
     "Kth Largest Element in a Stream": true,
     "Last Stone Weight": true,
     "K Closest Points to Origin": true,
-    "Kth Largest Element in an Array": true,
+    "Kth Largest Element in Array": true,
     "Task Scheduler": true,
     "Design Twitter": true,
     "Find Median from Data Stream": true

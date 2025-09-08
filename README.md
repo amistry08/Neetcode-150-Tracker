@@ -88,8 +88,8 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [Diameter of Binary Tree](solutions/tree/diameter_of_binary_tree.py)
 - ✅ [Balanced Binary Tree](solutions/tree/balanced_binary_tree.py)
 - ✅ [Same Tree](solutions/tree/same_tree.py)
-- ✅ [Subtree of Another Tree](solutions/tree/subtree_of_another_tree.py)
 - ✅ Lowest Common Ancestor of BST
+- ✅ [Subtree of Another Tree](solutions/tree/subtree_of_another_tree.py)
 - ✅ [Binary Tree Level Order Traversal](solutions/tree/binary_tree_level_order_traversal.py)
 - ✅ [Binary Tree Right Side View](solutions/tree/binary_tree_right_side_view.py)
 - ✅ [Count Good Nodes in Binary Tree](solutions/tree/count_good_nodes_in_binary_tree.py)

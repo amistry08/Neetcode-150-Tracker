@@ -59,7 +59,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [Search a 2D Matrix](solutions/binary_search/search_a_2d_matrix.py)
 - ✅ [Koko Eating Bananas](solutions/binary_search/koko_eating_bananas.py)
 - ✅ [Find Minimum in Rotated Sorted Array](solutions/binary_search/find_minimum_in_rotated_sorted_array.py)
-- ✅ Time Based Key Value store
+- ✅ [Time Based KeyValue Store](solutions/binary_search/time_based_keyvalue_store.py)
 - ✅ [Search in Rotated Sorted Array](solutions/binary_search/search_in_rotated_sorted_array.py)
 - ✅ [Median of Two Sorted Arrays](solutions/binary_search/median_of_two_sorted_arrays.py)
 
@@ -70,8 +70,8 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [Reverse Linked List](solutions/linked_list/reverse_linked_list.py)
 - ✅ [Merge Two Sorted Lists](solutions/linked_list/merge_two_sorted_lists.py)
 - ✅ [Linked List Cycle Detection](solutions/linked_list/linked_list_cycle_detection.py)
-- ✅ Remove Nth Node from end of List
-- ✅ Reorder List
+- ✅ [Remove Nth Node From End](solutions/linked_list/remove_nth_node_from_end.py)
+- ✅ [Reorder The List](solutions/linked_list/reorder_the_list.py)
 - ✅ [Copy List with Random Pointer](solutions/linked_list/copy_list_with_random_pointer.py)
 - ✅ [Add Two Numbers](solutions/linked_list/add_two_numbers.py)
 - ✅ [Linked List Cycle](solutions/linked_list/linked_list_cycle.py)
@@ -83,21 +83,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
 ## 📂 Trees
 
-- ✅ Invert Binary Tree
-- ✅ Maximum Depth of Binary Tree
-- ✅ Diameter of Binary Tree
-- ✅ Balanced Binary Tree
-- ✅ Same Tree
-- ✅ Subtree of Another Tree
-- ✅ Lowest Common Ancestor of BST
-- ✅ Binary Tree Level Order Traversal
-- ✅ Binary Tree Right Side View
-- ✅ Count Good Nodes in Binary Tree
-- ✅ Validate Binary Search Tree
-- ✅ Kth Smallest Element in a BST
-- ✅ Construct Binary Tree from Preorder and Inorder Traversal
-- ✅ Binary Tree Maximum Path Sum
-- ✅ Serialize and Deserialize Binary Tree
+{{TREES}}
 
 ---
 
@@ -114,7 +100,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [Kth Largest Element in a Stream](solutions/heap_and_priority_queue/kth_largest_element_in_a_stream.py)
 - ✅ [Last Stone Weight](solutions/heap_and_priority_queue/last_stone_weight.py)
 - ✅ [K Closest Points to Origin](solutions/heap_and_priority_queue/k_closest_points_to_origin.py)
-- ✅ Kth Largest Element in an Array
+- ✅ Kth Largest Element in Array
 - ✅ [Task Scheduler](solutions/heap_and_priority_queue/task_scheduler.py)
 - ✅ [Design Twitter](solutions/heap_and_priority_queue/design_twitter.py)
 - ✅ [Find Median from Data Stream](solutions/heap_and_priority_queue/find_median_from_data_stream.py)

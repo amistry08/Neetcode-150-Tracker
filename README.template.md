@@ -44,7 +44,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
 ## 📂 Trees
 
-{{TREES}}
+{{TREE}}
 
 ---
 

@@ -57,7 +57,7 @@
     "Reverse Nodes in k Group": true
   },
   "Tries": {
-    "Implement Trie (Prefix Tree)": false,
+    "Implement Trie Prefix Tree": true,
     "Design Add and Search Words Data Structure": false,
     "Word Search II": false
   },
@@ -93,7 +93,7 @@
     "Combination Sum II": true,
     "Permutations": true,
     "Subsets II": true,
-    "N-Queens": true,
+    "N Queens": true,
     "Word Search": true,
     "Palindrome Partitioning": true,
     "Letter Combinations of a Phone Number": true

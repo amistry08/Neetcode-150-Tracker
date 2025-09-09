@@ -58,7 +58,7 @@
   },
   "Tries": {
     "Implement Trie Prefix Tree": true,
-    "Design Add and Search Words Data Structure": false,
+    "Design Add and Search Words Data Structure": true,
     "Word Search II": false
   },
   "Tree": {
@@ -67,7 +67,7 @@
     "Diameter of Binary Tree": true,
     "Balanced Binary Tree": true,
     "Same Tree": true,
-    "Lowest Common Ancestor of BST": true,
+    "Lowest Common Ancestor of a BST": true,
     "Subtree of Another Tree": true,
     "Binary Tree Level Order Traversal": true,
     "Binary Tree Right Side View": true,

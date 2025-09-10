@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `77 / 150 ✅`
+**Progress**: `78 / 150 ✅`
 
 ---
 
@@ -88,7 +88,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [Diameter of Binary Tree](solutions/tree/diameter_of_binary_tree.py)
 - ✅ [Balanced Binary Tree](solutions/tree/balanced_binary_tree.py)
 - ✅ [Same Tree](solutions/tree/same_tree.py)
-- ✅ Lowest Common Ancestor of BST
+- ✅ [Lowest Common Ancestor of a BST](solutions/tree/lowest_common_ancestor_of_a_bst.py)
 - ✅ [Subtree of Another Tree](solutions/tree/subtree_of_another_tree.py)
 - ✅ [Binary Tree Level Order Traversal](solutions/tree/binary_tree_level_order_traversal.py)
 - ✅ [Binary Tree Right Side View](solutions/tree/binary_tree_right_side_view.py)
@@ -104,7 +104,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 ## 📂 Tries
 
 - ✅ [Implement Trie Prefix Tree](solutions/tries/implement_trie_prefix_tree.py)
-- 🔲 Design Add and Search Words Data Structure
+- ✅ [Design Add and Search Words Data Structure](solutions/tries/design_add_and_search_words_data_structure.py)
 - 🔲 Word Search II
 
 ---

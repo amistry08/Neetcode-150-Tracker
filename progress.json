@@ -99,7 +99,7 @@
     "Letter Combinations of a Phone Number": true
   },
   "Graphs": {
-    "Number of Islands": false,
+    "Number of Islands": true,
     "Clone Graph": false,
     "Max Area of Island": false,
     "Pacific Atlantic Water Flow": false,

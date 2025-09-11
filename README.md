@@ -105,7 +105,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
 - ✅ [Implement Trie Prefix Tree](solutions/tries/implement_trie_prefix_tree.py)
 - ✅ [Design Add and Search Words Data Structure](solutions/tries/design_add_and_search_words_data_structure.py)
-- ✅ Word Search II
+- ✅ [Word Search 2](solutions/tries/word_search_2.py)
 
 ---
 

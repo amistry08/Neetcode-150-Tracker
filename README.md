@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `80 / 150 ✅`
+**Progress**: `81 / 150 ✅`
 
 ---
 
@@ -139,7 +139,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
 - ✅ [Number of Islands](solutions/graphs/number_of_islands.py)
 - 🔲 Clone Graph
-- 🔲 Max Area of Island
+- ✅ [Max Area of Island](solutions/graphs/max_area_of_island.py)
 - 🔲 Pacific Atlantic Water Flow
 - 🔲 Surrounded Regions
 - 🔲 Rotting Oranges

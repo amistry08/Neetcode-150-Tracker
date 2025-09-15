@@ -100,7 +100,7 @@
   },
   "Graphs": {
     "Number of Islands": true,
-    "Clone Graph": false,
+    "Clone Graph": true,
     "Max Area of Island": true,
     "Pacific Atlantic Water Flow": false,
     "Surrounded Regions": false,

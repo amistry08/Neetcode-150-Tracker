@@ -104,7 +104,7 @@
     "Max Area of Island": true,
     "Pacific Atlantic Water Flow": false,
     "Surrounded Regions": false,
-    "Rotting Oranges": false,
+    "Rotting Oranges": true,
     "Walls and Gates": true,
     "Course Schedule": false,
     "Course Schedule II": false,

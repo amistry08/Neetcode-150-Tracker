@@ -102,7 +102,7 @@
     "Number of Islands": true,
     "Clone Graph": true,
     "Max Area of Island": true,
-    "Pacific Atlantic Water Flow": false,
+    "Pacific Atlantic Water Flow": true,
     "Surrounded Regions": false,
     "Rotting Oranges": true,
     "Walls and Gates": true,

@@ -103,7 +103,7 @@
     "Clone Graph": true,
     "Max Area of Island": true,
     "Pacific Atlantic Water Flow": true,
-    "Surrounded Regions": false,
+    "Surrounded Regions": true,
     "Rotting Oranges": true,
     "Walls and Gates": true,
     "Course Schedule": false,

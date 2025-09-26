@@ -106,7 +106,7 @@
     "Surrounded Regions": true,
     "Rotting Oranges": true,
     "Walls and Gates": true,
-    "Course Schedule": false,
+    "Course Schedule": true,
     "Course Schedule II": false,
     "Redundant Connection": false,
     "Graph Valid Tree": false,

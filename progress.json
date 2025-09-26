@@ -107,7 +107,7 @@
     "Rotting Oranges": true,
     "Walls and Gates": true,
     "Course Schedule": true,
-    "Course Schedule II": false,
+    "Course Schedule II": true,
     "Redundant Connection": false,
     "Graph Valid Tree": false,
     "Number of Connected Components in an Undirected Graph": false

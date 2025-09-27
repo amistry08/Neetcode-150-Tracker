@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `88 / 150 ✅`
+**Progress**: `89 / 150 ✅`
 
 ---
 
@@ -147,7 +147,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [Course Schedule](solutions/graphs/course_schedule.py)
 - ✅ [Course Schedule II](solutions/graphs/course_schedule_ii.py)
 - 🔲 Redundant Connection
-- 🔲 Graph Valid Tree
+- ✅ [Graph Valid Tree](solutions/graphs/graph_valid_tree.py)
 - 🔲 Number of Connected Components in an Undirected Graph
 
 ---

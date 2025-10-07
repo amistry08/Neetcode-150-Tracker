@@ -118,7 +118,7 @@
         "Alien Dictionary": false,
         "Cheapest Flights Within K Stops": false,
         "Network Delay Time": true,
-        "Minimum Cost to Connect All Points": false,
+        "Minimum Cost to Connect All Points": true,
         "Swim in Rising Water": false,
         "Word Ladder": false
     },

@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `92 / 150 ✅`
+**Progress**: `94 / 150 ✅`
 
 ---
 
@@ -155,10 +155,10 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
 ## 📂 Advanced Graphs
 
-- 🔲 Reconstruct Itinerary
+- ✅ [Reconstruct Itinerary](solutions/advanced_graphs/reconstruct_itinerary.py)
 - 🔲 Alien Dictionary
 - 🔲 Cheapest Flights Within K Stops
-- 🔲 [Network Delay Time](solutions/advanced_graphs/network_delay_time.py)
+- ✅ [Network Delay Time](solutions/advanced_graphs/network_delay_time.py)
 - 🔲 Minimum Cost to Connect All Points
 - 🔲 Swim in Rising Water
 - 🔲 Word Ladder

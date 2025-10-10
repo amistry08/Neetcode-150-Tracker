@@ -119,7 +119,7 @@
         "Cheapest Flights Within K Stops": false,
         "Network Delay Time": true,
         "Minimum Cost to Connect All Points": true,
-        "Swim in Rising Water": false,
+        "Swim in Rising Water": true,
         "Word Ladder": false
     },
     "1D Dynamic Programming": {

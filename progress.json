@@ -115,7 +115,7 @@
     },
     "Advanced Graphs": {
         "Reconstruct Itinerary": true,
-        "Alien Dictionary": false,
+        "Alien Dictionary": true,
         "Cheapest Flights Within K Stops": false,
         "Network Delay Time": true,
         "Minimum Cost to Connect All Points": true,

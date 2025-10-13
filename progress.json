@@ -116,11 +116,11 @@
     "Advanced Graphs": {
         "Reconstruct Itinerary": true,
         "Alien Dictionary": true,
-        "Cheapest Flights Within K Stops": false,
+        "Cheapest Flights Within K Stops": true,
         "Network Delay Time": true,
         "Minimum Cost to Connect All Points": true,
         "Swim in Rising Water": true,
-        "Word Ladder": false
+        "Word Ladder": true
     },
     "1D Dynamic Programming": {
         "Climbing Stairs": false,

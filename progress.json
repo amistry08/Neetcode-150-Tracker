@@ -122,7 +122,7 @@
         "Swim in Rising Water": true
     },
     "1D Dynamic Programming": {
-        "Climbing Stairs": false,
+        "Climbing Stairs": true,
         "Min Cost Climbing Stairs": false,
         "House Robber": false,
         "House Robber II": false,

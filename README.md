@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `99 / 150 ✅`
+**Progress**: `101 / 150 ✅`
 
 ---
 
@@ -168,8 +168,8 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
 - ✅ Climbing Stairs
 - 🔲 Min Cost Climbing Stairs
-- 🔲 House Robber
-- 🔲 House Robber II
+- ✅ House Robber
+- ✅ House Robber II
 - 🔲 Longest Palindromic Substring
 - 🔲 Palindromic Substrings
 - 🔲 Decode Ways

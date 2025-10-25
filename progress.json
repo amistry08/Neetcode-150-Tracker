@@ -126,7 +126,7 @@
         "Min Cost Climbing Stairs": false,
         "House Robber": true,
         "House Robber II": true,
-        "Longest Palindromic Substring": false,
+        "Longest Palindromic Substring": true,
         "Palindromic Substrings": false,
         "Decode Ways": false,
         "Coin Change": false,

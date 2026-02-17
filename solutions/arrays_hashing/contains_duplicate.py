@@ -1,9 +1,8 @@
 class Solution:
     def hasDuplicate(self, nums: List[int]) -> bool:
-        myDict={}
-        for i in nums:
-            if myDict.get(i) != None:
+        seen = set()
+        for num in nums:
+            if num in seen:
                 return True
-            else:
-                myDict[i] = i
-        return False    
+            seen.add(num)
+        return False

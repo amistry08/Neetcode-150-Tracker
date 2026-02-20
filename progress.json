@@ -1,10 +1,10 @@
 {
     "Arrays Hashing": {
         "Contains Duplicate": true,
-        "Encode and Decode Strings": false,
+        "Encode and Decode Strings": true,
         "Group Anagrams": true,
         "Longest Consecutive Sequence": false,
-        "Products of Array Except Self": false,
+        "Products of Array Except Self": true,
         "Top K Frequent Elements": true,
         "Two Sum": true,
         "Valid Anagram": true,

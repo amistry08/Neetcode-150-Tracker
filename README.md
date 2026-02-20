@@ -2,17 +2,17 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `5 / 150 ✅`
+**Progress**: `7 / 150 ✅`
 
 ---
 
 ## 📂 Arrays & Hashing
 
 - ✅ [Contains Duplicate](solutions/arrays_hashing/contains_duplicate.py)
-- 🔲 Encode and Decode Strings
+- ✅ [Encode and Decode Strings](solutions/arrays_hashing/encode_and_decode_strings.py)
 - ✅ [Group Anagrams](solutions/arrays_hashing/group_anagrams.py)
 - 🔲 Longest Consecutive Sequence
-- 🔲 Products of Array Except Self
+- ✅ [Products of Array Except Self](solutions/arrays_hashing/products_of_array_except_self.py)
 - ✅ [Top K Frequent Elements](solutions/arrays_hashing/top_k_frequent_elements.py)
 - ✅ [Two Sum](solutions/arrays_hashing/two_sum.py)
 - ✅ [Valid Anagram](solutions/arrays_hashing/valid_anagram.py)

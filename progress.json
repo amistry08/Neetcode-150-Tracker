@@ -3,12 +3,12 @@
         "Contains Duplicate": true,
         "Encode and Decode Strings": true,
         "Group Anagrams": true,
-        "Longest Consecutive Sequence": false,
+        "Longest Consecutive Sequence": true,
         "Products of Array Except Self": true,
         "Top K Frequent Elements": true,
         "Two Sum": true,
         "Valid Anagram": true,
-        "Valid Sudoku": false
+        "Valid Sudoku": true
     },
     "Sliding Window": {
         "Best Time to Buy and Sell Stock": false,

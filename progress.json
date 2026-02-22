@@ -22,8 +22,8 @@
         "3Sum": false,
         "Container With Most Water": false,
         "Trapping Rain Water": false,
-        "Two Integer sum II": false,
-        "Valid Palindrome": false
+        "Two Integer sum II": true,
+        "Valid Palindrome": true
     },
     "Stack": {
         "Valid Parentheses": false,

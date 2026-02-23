@@ -19,9 +19,9 @@
         "Sliding Window Maximum": false
     },
     "Two Pointers": {
-        "3Sum": false,
-        "Container With Most Water": false,
-        "Trapping Rain Water": false,
+        "3Sum": true,
+        "Container With Most Water": true,
+        "Trapping Rain Water": true,
         "Two Integer sum II": true,
         "Valid Palindrome": true
     },

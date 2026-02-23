@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `7 / 150 ✅`
+**Progress**: `11 / 150 ✅`
 
 ---
 
@@ -11,22 +11,22 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [Contains Duplicate](solutions/arrays_hashing/contains_duplicate.py)
 - ✅ [Encode and Decode Strings](solutions/arrays_hashing/encode_and_decode_strings.py)
 - ✅ [Group Anagrams](solutions/arrays_hashing/group_anagrams.py)
-- 🔲 Longest Consecutive Sequence
+- ✅ [Longest Consecutive Sequence](solutions/arrays_hashing/longest_consecutive_sequence.py)
 - ✅ [Products of Array Except Self](solutions/arrays_hashing/products_of_array_except_self.py)
 - ✅ [Top K Frequent Elements](solutions/arrays_hashing/top_k_frequent_elements.py)
 - ✅ [Two Sum](solutions/arrays_hashing/two_sum.py)
 - ✅ [Valid Anagram](solutions/arrays_hashing/valid_anagram.py)
-- 🔲 Valid Sudoku
+- ✅ [Valid Sudoku](solutions/arrays_hashing/valid_sudoku.py)
 
 ---
 
 ## 📂 Two Pointers
 
-- 🔲 3Sum
+- 🔲 [3Sum](solutions/two_pointers/3sum.py)
 - 🔲 Container With Most Water
 - 🔲 Trapping Rain Water
-- 🔲 Two Integer sum II
-- 🔲 Valid Palindrome
+- ✅ [Two Integer sum II](solutions/two_pointers/two_integer_sum_ii.py)
+- ✅ [Valid Palindrome](solutions/two_pointers/valid_palindrome.py)
 
 ---
 

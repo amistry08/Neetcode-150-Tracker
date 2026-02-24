@@ -11,9 +11,9 @@
         "Valid Sudoku": true
     },
     "Sliding Window": {
-        "Best Time to Buy and Sell Stock": false,
+        "Best Time to Buy and Sell Stock": true,
         "Longest Repeating Character Replacement": false,
-        "Longest Substring Without Repeating Characters": false,
+        "Longest Substring Without Repeating Characters": true,
         "Permutation in String": false,
         "Minimum Window Substring": false,
         "Sliding Window Maximum": false

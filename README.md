@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `11 / 150 ✅`
+**Progress**: `14 / 150 ✅`
 
 ---
 
@@ -22,9 +22,9 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
 ## 📂 Two Pointers
 
-- 🔲 [3Sum](solutions/two_pointers/3sum.py)
-- 🔲 Container With Most Water
-- 🔲 Trapping Rain Water
+- ✅ [3Sum](solutions/two_pointers/3sum.py)
+- ✅ [Container With Most Water](solutions/two_pointers/container_with_most_water.py)
+- ✅ [Trapping Rain Water](solutions/two_pointers/trapping_rain_water.py)
 - ✅ [Two Integer sum II](solutions/two_pointers/two_integer_sum_ii.py)
 - ✅ [Valid Palindrome](solutions/two_pointers/valid_palindrome.py)
 

@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `14 / 150 ✅`
+**Progress**: `16 / 150 ✅`
 
 ---
 
@@ -32,9 +32,9 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
 ## 📂 Sliding Window
 
-- 🔲 Best Time to Buy and Sell Stock
+- ✅ [Best Time to Buy and Sell Stock](solutions/sliding_window/best_time_to_buy_and_sell_stock.py)
 - 🔲 Longest Repeating Character Replacement
-- 🔲 Longest Substring Without Repeating Characters
+- ✅ [Longest Substring Without Repeating Characters](solutions/sliding_window/longest_substring_without_repeating_characters.py)
 - 🔲 Permutation in String
 - 🔲 Minimum Window Substring
 - 🔲 Sliding Window Maximum

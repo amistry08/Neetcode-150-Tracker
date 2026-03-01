@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `24 / 150 ✅`
+**Progress**: `26 / 150 ✅`
 
 ---
 
@@ -48,8 +48,8 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [Evaluate Reverse Polish Notation](solutions/stack/evaluate_reverse_polish_notation.py)
 - 🔲 Generate Parentheses
 - ✅ Daily Temperatures
-- 🔲 Car Fleet
-- 🔲 Largest Rectangle in Histogram
+- ✅ [Car Fleet](solutions/stack/car_fleet.py)
+- ✅ [Largest Rectangle in Histogram](solutions/stack/largest_rectangle_in_histogram.py)
 
 ---
 

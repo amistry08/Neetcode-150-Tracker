@@ -15,8 +15,8 @@
         "Longest Repeating Character Replacement": true,
         "Longest Substring Without Repeating Characters": true,
         "Permutation in String": true,
-        "Minimum Window Substring": false,
-        "Sliding Window Maximum": false
+        "Minimum Window Substring": true,
+        "Sliding Window Maximum": true
     },
     "Two Pointers": {
         "3Sum": true,
@@ -26,11 +26,11 @@
         "Valid Palindrome": true
     },
     "Stack": {
-        "Valid Parentheses": false,
-        "Minimum Stack": false,
-        "Evaluate Reverse Polish Notation": false,
+        "Valid Parentheses": true,
+        "Minimum Stack": true,
+        "Evaluate Reverse Polish Notation": true,
         "Generate Parentheses": false,
-        "Daily Temperatures": false,
+        "Daily Temperatures": true,
         "Car Fleet": false,
         "Largest Rectangle in Histogram": false
     },

@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `18 / 150 ✅`
+**Progress**: `24 / 150 ✅`
 
 ---
 
@@ -36,18 +36,18 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [Longest Repeating Character Replacement](solutions/sliding_window/longest_repeating_character_replacement.py)
 - ✅ [Longest Substring Without Repeating Characters](solutions/sliding_window/longest_substring_without_repeating_characters.py)
 - ✅ [Permutation in String](solutions/sliding_window/permutation_in_string.py)
-- 🔲 Minimum Window Substring
-- 🔲 Sliding Window Maximum
+- ✅ [Minimum Window Substring](solutions/sliding_window/minimum_window_substring.py)
+- ✅ Sliding Window Maximum
 
 ---
 
 ## 📂 Stack
 
-- 🔲 Valid Parentheses
-- 🔲 Minimum Stack
-- 🔲 Evaluate Reverse Polish Notation
+- ✅ [Valid Parentheses](solutions/stack/valid_parentheses.py)
+- ✅ [Minimum Stack](solutions/stack/minimum_stack.py)
+- ✅ [Evaluate Reverse Polish Notation](solutions/stack/evaluate_reverse_polish_notation.py)
 - 🔲 Generate Parentheses
-- 🔲 Daily Temperatures
+- ✅ Daily Temperatures
 - 🔲 Car Fleet
 - 🔲 Largest Rectangle in Histogram
 

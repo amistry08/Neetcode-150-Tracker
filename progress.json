@@ -31,8 +31,8 @@
         "Evaluate Reverse Polish Notation": true,
         "Generate Parentheses": false,
         "Daily Temperatures": true,
-        "Car Fleet": false,
-        "Largest Rectangle in Histogram": false
+        "Car Fleet": true,
+        "Largest Rectangle in Histogram": true
     },
     "Binary Search": {
         "Binary Search": false,

@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `26 / 150 ✅`
+**Progress**: `28 / 150 ✅`
 
 ---
 
@@ -46,7 +46,6 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [Valid Parentheses](solutions/stack/valid_parentheses.py)
 - ✅ [Minimum Stack](solutions/stack/minimum_stack.py)
 - ✅ [Evaluate Reverse Polish Notation](solutions/stack/evaluate_reverse_polish_notation.py)
-- 🔲 Generate Parentheses
 - ✅ Daily Temperatures
 - ✅ [Car Fleet](solutions/stack/car_fleet.py)
 - ✅ [Largest Rectangle in Histogram](solutions/stack/largest_rectangle_in_histogram.py)
@@ -55,8 +54,8 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
 ## 📂 Binary Search
 
-- 🔲 Binary Search
-- 🔲 Search a 2D Matrix
+- ✅ [Binary Search](solutions/binary_search/binary_search.py)
+- ✅ [Search a 2D Matrix](solutions/binary_search/search_a_2d_matrix.py)
 - 🔲 Koko Eating Bananas
 - 🔲 Find Minimum in Rotated Sorted Array
 - 🔲 Time Based KeyValue Store

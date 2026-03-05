@@ -37,7 +37,7 @@
         "Binary Search": true,
         "Search a 2D Matrix": true,
         "Koko Eating Bananas": true,
-        "Find Minimum in Rotated Sorted Array": false,
+        "Find Minimum in Rotated Sorted Array": true,
         "Time Based KeyValue Store": false,
         "Search in Rotated Sorted Array": true,
         "Median of Two Sorted Arrays": false

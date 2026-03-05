@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `29 / 150 ✅`
+**Progress**: `30 / 150 ✅`
 
 ---
 
@@ -59,7 +59,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [Koko Eating Bananas](solutions/binary_search/koko_eating_bananas.py)
 - 🔲 Find Minimum in Rotated Sorted Array
 - 🔲 Time Based KeyValue Store
-- 🔲 Search in Rotated Sorted Array
+- ✅ [Search in Rotated Sorted Array](solutions/binary_search/search_in_rotated_sorted_array.py)
 - 🔲 Median of Two Sorted Arrays
 
 ---

@@ -40,7 +40,7 @@
         "Find Minimum in Rotated Sorted Array": true,
         "Time Based KeyValue Store": true,
         "Search in Rotated Sorted Array": true,
-        "Median of Two Sorted Arrays": false
+        "Median of Two Sorted Arrays": true
     },
     "Linked List": {
         "Reverse Linked List": false,

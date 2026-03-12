@@ -46,7 +46,7 @@
         "Reverse Linked List": true,
         "Merge Two Sorted Lists": true,
         "Linked List Cycle Detection": true,
-        "Remove Nth Node From End": false,
+        "Remove Nth Node From End": true,
         "Reorder The List": true,
         "Copy List with Random Pointer": false,
         "Add Two Numbers": false,

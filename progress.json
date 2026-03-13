@@ -48,7 +48,7 @@
         "Linked List Cycle Detection": true,
         "Remove Nth Node From End": true,
         "Reorder The List": true,
-        "Copy List with Random Pointer": false,
+        "Copy List with Random Pointer": true,
         "Add Two Numbers": false,
         "Linked List Cycle": false,
         "LRU Cache": false,

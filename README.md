@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `39 / 150 ✅`
+**Progress**: `41 / 150 ✅`
 
 ---
 
@@ -72,7 +72,8 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [Remove Nth Node From End](solutions/linked_list/remove_nth_node_from_end.py)
 - ✅ [Reorder The List](solutions/linked_list/reorder_the_list.py)
 - ✅ [Copy List with Random Pointer](solutions/linked_list/copy_list_with_random_pointer.py)
-- 🔲 Add Two Numbers
+- ✅ [Add Two Numbers](solutions/linked_list/add_two_numbers.py)
+- ✅ Find the Dulicate Number
 - 🔲 Linked List Cycle
 - 🔲 LRU Cache
 - 🔲 Merge K Sorted Lists

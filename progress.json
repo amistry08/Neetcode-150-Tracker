@@ -52,7 +52,7 @@
         "Add Two Numbers": true,
         "Find the Dulicate Number": true,
         "Linked List Cycle": false,
-        "LRU Cache": false,
+        "LRU Cache": true,
         "Merge K Sorted Lists": false,
         "Reverse Nodes in k Group": false
     },

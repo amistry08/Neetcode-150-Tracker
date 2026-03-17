@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `41 / 150 ✅`
+**Progress**: `42 / 150 ✅`
 
 ---
 
@@ -75,7 +75,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [Add Two Numbers](solutions/linked_list/add_two_numbers.py)
 - ✅ Find the Dulicate Number
 - 🔲 Linked List Cycle
-- 🔲 LRU Cache
+- ✅ [LRU Cache](solutions/linked_list/lru_cache.py)
 - 🔲 Merge K Sorted Lists
 - 🔲 Reverse Nodes in k Group
 

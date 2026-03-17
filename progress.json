@@ -53,7 +53,7 @@
         "Find the Dulicate Number": true,
         "Linked List Cycle": false,
         "LRU Cache": true,
-        "Merge K Sorted Lists": false,
+        "Merge K Sorted Lists": true,
         "Reverse Nodes in k Group": false
     },
     "Tries": {

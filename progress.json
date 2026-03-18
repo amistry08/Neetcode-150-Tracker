@@ -54,7 +54,7 @@
         "Linked List Cycle": false,
         "LRU Cache": true,
         "Merge K Sorted Lists": true,
-        "Reverse Nodes in k Group": false
+        "Reverse Nodes in k Group": true
     },
     "Tries": {
         "Implement Trie Prefix Tree": false,

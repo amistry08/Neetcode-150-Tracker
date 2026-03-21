@@ -68,7 +68,7 @@
         "Balanced Binary Tree": true,
         "Same Tree": true,
         "Lowest Common Ancestor of a BST": false,
-        "Subtree of Another Tree": false,
+        "Subtree of Another Tree": true,
         "Binary Tree Level Order Traversal": false,
         "Binary Tree Right Side View": false,
         "Count Good Nodes in Binary Tree": false,

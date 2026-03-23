@@ -67,7 +67,7 @@
         "Diameter of Binary Tree": true,
         "Balanced Binary Tree": true,
         "Same Tree": true,
-        "Lowest Common Ancestor of a BST": false,
+        "Lowest Common Ancestor of a BST": true,
         "Subtree of Another Tree": true,
         "Binary Tree Level Order Traversal": false,
         "Binary Tree Right Side View": false,

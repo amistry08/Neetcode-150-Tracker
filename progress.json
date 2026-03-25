@@ -70,7 +70,7 @@
         "Lowest Common Ancestor of a BST": true,
         "Subtree of Another Tree": true,
         "Binary Tree Level Order Traversal": true,
-        "Binary Tree Right Side View": false,
+        "Binary Tree Right Side View": true,
         "Count Good Nodes in Binary Tree": false,
         "Validate Binary Search Tree": false,
         "Kth Smallest Element in a BST": false,

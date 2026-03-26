@@ -71,7 +71,7 @@
         "Subtree of Another Tree": true,
         "Binary Tree Level Order Traversal": true,
         "Binary Tree Right Side View": true,
-        "Count Good Nodes in Binary Tree": false,
+        "Count Good Nodes in Binary Tree": true,
         "Validate Binary Search Tree": false,
         "Kth Smallest Element in a BST": false,
         "Construct Binary Tree from Preorder and Inorder Traversal": false,

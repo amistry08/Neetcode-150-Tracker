@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `57 / 150 ✅`
+**Progress**: `58 / 150 ✅`
 
 ---
 
@@ -96,7 +96,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ Validate Binary Search Tree
 - ✅ Kth Smallest Element in a BST
 - ✅ Construct Binary Tree from Preorder and Inorder Traversal
-- 🔲 Binary Tree Maximum Path Sum
+- ✅ Binary Tree Maximum Path Sum
 - 🔲 Serialize and Deserialize Binary Tree
 
 ---

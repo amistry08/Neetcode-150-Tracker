@@ -79,7 +79,7 @@
         "Serialize and Deserialize Binary Tree": true
     },
     "Heap and Priority Queue": {
-        "Kth Largest Element in a Stream": false,
+        "Kth Largest Element in a Stream": true,
         "Last Stone Weight": false,
         "K Closest Points to Origin": false,
         "Kth Largest Element in an Array": false,

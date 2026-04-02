@@ -80,7 +80,7 @@
     },
     "Heap and Priority Queue": {
         "Kth Largest Element in a Stream": true,
-        "Last Stone Weight": false,
+        "Last Stone Weight": true,
         "K Closest Points to Origin": false,
         "Kth Largest Element in an Array": false,
         "Task Scheduler": false,

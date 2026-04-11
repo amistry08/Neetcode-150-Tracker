@@ -93,6 +93,7 @@
         "Combination Sum II": true,
         "Permutations": true,
         "Subsets II": true,
+        "Generate Parentheses": true,
         "N Queens": false,
         "Word Search": false,
         "Palindrome Partitioning": false,

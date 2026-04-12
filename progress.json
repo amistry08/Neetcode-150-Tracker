@@ -95,7 +95,7 @@
         "Subsets II": true,
         "Generate Parentheses": true,
         "N Queens": false,
-        "Word Search": false,
+        "Word Search": true,
         "Palindrome Partitioning": false,
         "Letter Combinations of a Phone Number": false
     },

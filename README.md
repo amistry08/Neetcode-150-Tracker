@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `72 / 150 ✅`
+**Progress**: `73 / 150 ✅`
 
 ---
 
@@ -130,7 +130,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [Subsets II](solutions/backtracking/subsets_ii.py)
 - ✅ [Generate Parentheses](solutions/backtracking/generate_parentheses.py)
 - 🔲 N Queens
-- 🔲 Word Search
+- ✅ [Word Search](solutions/backtracking/word_search.py)
 - 🔲 Palindrome Partitioning
 - 🔲 Letter Combinations of a Phone Number
 

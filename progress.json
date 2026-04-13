@@ -96,7 +96,7 @@
         "Generate Parentheses": true,
         "N Queens": false,
         "Word Search": true,
-        "Palindrome Partitioning": false,
+        "Palindrome Partitioning": true,
         "Letter Combinations of a Phone Number": false
     },
     "Graphs": {

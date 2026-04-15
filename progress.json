@@ -94,7 +94,7 @@
         "Permutations": true,
         "Subsets II": true,
         "Generate Parentheses": true,
-        "N Queens": false,
+        "N Queens": true,
         "Word Search": true,
         "Palindrome Partitioning": true,
         "Letter Combinations of a Phone Number": true

@@ -58,7 +58,7 @@
     },
     "Tries": {
         "Implement Trie Prefix Tree": true,
-        "Design Add and Search Words Data Structure": false,
+        "Design Add and Search Words Data Structure": true,
         "Word Search 2": false
     },
     "Tree": {

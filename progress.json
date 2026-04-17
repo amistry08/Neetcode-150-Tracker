@@ -57,7 +57,7 @@
         "Reverse Nodes in k Group": true
     },
     "Tries": {
-        "Implement Trie Prefix Tree": false,
+        "Implement Trie Prefix Tree": true,
         "Design Add and Search Words Data Structure": false,
         "Word Search 2": false
     },

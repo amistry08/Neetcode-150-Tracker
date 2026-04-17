@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `76 / 150 ✅`
+**Progress**: `77 / 150 ✅`
 
 ---
 
@@ -103,7 +103,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
 ## 📂 Tries
 
-- 🔲 Implement Trie Prefix Tree
+- ✅ [Implement Trie Prefix Tree](solutions/tries/implement_trie_prefix_tree.py)
 - 🔲 Design Add and Search Words Data Structure
 - 🔲 Word Search 2
 

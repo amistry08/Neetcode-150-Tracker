@@ -106,7 +106,7 @@
         "Pacific Atlantic Water Flow": false,
         "Surrounded Regions": false,
         "Rotting Oranges": false,
-        "Walls and Gates": false,
+        "Walls and Gates": true,
         "Course Schedule": false,
         "Course Schedule II": false,
         "Redundant Connection": false,

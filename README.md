@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `82 / 150 ✅`
+**Progress**: `83 / 150 ✅`
 
 ---
 
@@ -144,7 +144,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - 🔲 Pacific Atlantic Water Flow
 - 🔲 Surrounded Regions
 - 🔲 Rotting Oranges
-- 🔲 Walls and Gates
+- ✅ [Walls and Gates](solutions/graphs/walls_and_gates.py)
 - 🔲 Course Schedule
 - 🔲 Course Schedule II
 - 🔲 Redundant Connection

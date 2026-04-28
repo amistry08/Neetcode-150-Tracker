@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `86 / 150 ✅`
+**Progress**: `87 / 150 ✅`
 
 ---
 
@@ -145,7 +145,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [Surrounded Regions](solutions/graphs/surrounded_regions.py)
 - ✅ [Rotting Oranges](solutions/graphs/rotting_oranges.py)
 - ✅ [Walls and Gates](solutions/graphs/walls_and_gates.py)
-- 🔲 Course Schedule
+- ✅ Course Schedule
 - 🔲 Course Schedule II
 - 🔲 Redundant Connection
 - 🔲 Graph Valid Tree

@@ -111,7 +111,7 @@
         "Course Schedule II": true,
         "Redundant Connection": false,
         "Graph Valid Tree": true,
-        "Number of Connected Components in an Undirected Graph": false,
+        "Connected Components Undirected Graph": true,
         "Word Ladder": false
     },
     "Advanced Graphs": {

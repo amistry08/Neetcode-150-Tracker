@@ -109,7 +109,7 @@
         "Walls and Gates": true,
         "Course Schedule": true,
         "Course Schedule II": true,
-        "Redundant Connection": false,
+        "Redundant Connection": true,
         "Graph Valid Tree": true,
         "Connected Components Undirected Graph": true,
         "Word Ladder": false

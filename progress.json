@@ -112,13 +112,13 @@
         "Redundant Connection": true,
         "Graph Valid Tree": true,
         "Connected Components Undirected Graph": true,
-        "Word Ladder": false
+        "Word Ladder": true
     },
     "Advanced Graphs": {
         "Reconstruct Itinerary": false,
         "Alien Dictionary": false,
         "Cheapest Flights Within K Stops": false,
-        "Network Delay Time": false,
+        "Network Delay Time": true,
         "Minimum Cost to Connect All Points": false,
         "Swim in Rising Water": false
     },

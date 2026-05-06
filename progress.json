@@ -115,7 +115,7 @@
         "Word Ladder": true
     },
     "Advanced Graphs": {
-        "Reconstruct Itinerary": false,
+        "Reconstruct Itinerary": true,
         "Alien Dictionary": false,
         "Cheapest Flights Within K Stops": false,
         "Network Delay Time": true,

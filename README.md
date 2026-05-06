@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `91 / 150 ✅`
+**Progress**: `93 / 150 ✅`
 
 ---
 
@@ -150,7 +150,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [Redundant Connection](solutions/graphs/redundant_connection.py)
 - ✅ [Graph Valid Tree](solutions/graphs/graph_valid_tree.py)
 - ✅ Connected Components Undirected Graph
-- 🔲 Word Ladder
+- ✅ [Word Ladder](solutions/graphs/word_ladder.py)
 
 ---
 
@@ -159,7 +159,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - 🔲 Reconstruct Itinerary
 - 🔲 Alien Dictionary
 - 🔲 Cheapest Flights Within K Stops
-- 🔲 Network Delay Time
+- ✅ [Network Delay Time](solutions/advanced_graphs/network_delay_time.py)
 - 🔲 Minimum Cost to Connect All Points
 - 🔲 Swim in Rising Water
 

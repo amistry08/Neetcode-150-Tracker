@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `95 / 150 ✅`
+**Progress**: `96 / 150 ✅`
 
 ---
 
@@ -161,7 +161,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - 🔲 Cheapest Flights Within K Stops
 - ✅ [Network Delay Time](solutions/advanced_graphs/network_delay_time.py)
 - ✅ Minimum Cost to Connect All Points
-- 🔲 Swim in Rising Water
+- ✅ [Swim in Rising Water](solutions/advanced_graphs/swim_in_rising_water.py)
 
 ---
 

@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `98 / 150 ✅`
+**Progress**: `99 / 150 ✅`
 
 ---
 
@@ -167,7 +167,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
 ## 📂1D Dynamic Programming
 
-- 🔲 Climbing Stairs
+- ✅ [Climbing Stairs](solutions/1d_dynamic_programming/climbing_stairs.py)
 - 🔲 Min Cost Climbing Stairs
 - 🔲 House Robber
 - 🔲 House Robber II

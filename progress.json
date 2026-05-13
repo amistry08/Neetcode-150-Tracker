@@ -124,7 +124,7 @@
     },
     "1D Dynamic Programming": {
         "Climbing Stairs": true,
-        "Min Cost Climbing Stairs": false,
+        "Min Cost Climbing Stairs": true,
         "House Robber": false,
         "House Robber II": false,
         "Longest Palindromic Substring": false,

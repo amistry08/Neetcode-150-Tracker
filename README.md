@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `103 / 150 ✅`
+**Progress**: `104 / 150 ✅`
 
 ---
 
@@ -172,7 +172,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [House Robber](solutions/1d_dynamic_programming/house_robber.py)
 - ✅ [House Robber II](solutions/1d_dynamic_programming/house_robber_ii.py)
 - ✅ Longest Palindromic Substring
-- 🔲 Palindromic Substrings
+- ✅ [Palindromic Substrings](solutions/1d_dynamic_programming/palindromic_substrings.py)
 - 🔲 Decode Ways
 - 🔲 Coin Change
 - 🔲 Maximum Product Subarray

@@ -129,7 +129,7 @@
         "House Robber II": true,
         "Longest Palindromic Substring": true,
         "Palindromic Substrings": true,
-        "Decode Ways": false,
+        "Decode Ways": true,
         "Coin Change": false,
         "Maximum Product Subarray": false,
         "Word Break": false,

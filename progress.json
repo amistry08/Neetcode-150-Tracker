@@ -130,7 +130,7 @@
         "Longest Palindromic Substring": true,
         "Palindromic Substrings": true,
         "Decode Ways": true,
-        "Coin Change": false,
+        "Coin Change": true,
         "Maximum Product Subarray": false,
         "Word Break": false,
         "Longest Increasing Subsequence": false,

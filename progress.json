@@ -131,7 +131,7 @@
         "Palindromic Substrings": true,
         "Decode Ways": true,
         "Coin Change": true,
-        "Maximum Product Subarray": false,
+        "Maximum Product Subarray": true,
         "Word Break": false,
         "Longest Increasing Subsequence": false,
         "Partition Equal Subset Sum": false

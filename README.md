@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `106 / 150 ✅`
+**Progress**: `107 / 150 ✅`
 
 ---
 
@@ -175,7 +175,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [Palindromic Substrings](solutions/1d_dynamic_programming/palindromic_substrings.py)
 - ✅ [Decode Ways](solutions/1d_dynamic_programming/decode_ways.py)
 - ✅ [Coin Change](solutions/1d_dynamic_programming/coin_change.py)
-- 🔲 Maximum Product Subarray
+- ✅ [Maximum Product Subarray](solutions/1d_dynamic_programming/maximum_product_subarray.py)
 - 🔲 Word Break
 - 🔲 Longest Increasing Subsequence
 - 🔲 Partition Equal Subset Sum

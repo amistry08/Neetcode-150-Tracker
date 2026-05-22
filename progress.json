@@ -132,7 +132,7 @@
         "Decode Ways": true,
         "Coin Change": true,
         "Maximum Product Subarray": true,
-        "Word Break": false,
+        "Word Break": true,
         "Longest Increasing Subsequence": false,
         "Partition Equal Subset Sum": false
     },

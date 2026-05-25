@@ -134,7 +134,7 @@
         "Maximum Product Subarray": true,
         "Word Break": true,
         "Longest Increasing Subsequence": true,
-        "Partition Equal Subset Sum": false
+        "Partition Equal Subset Sum": true
     },
     "2D Dynamic Programming": {
         "Unique Paths": false,

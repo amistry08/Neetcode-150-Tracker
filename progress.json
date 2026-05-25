@@ -133,7 +133,7 @@
         "Coin Change": true,
         "Maximum Product Subarray": true,
         "Word Break": true,
-        "Longest Increasing Subsequence": false,
+        "Longest Increasing Subsequence": true,
         "Partition Equal Subset Sum": false
     },
     "2D Dynamic Programming": {

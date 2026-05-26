@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `110 / 150 ✅`
+**Progress**: `111 / 150 ✅`
 
 ---
 
@@ -37,7 +37,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [Longest Substring Without Repeating Characters](solutions/sliding_window/longest_substring_without_repeating_characters.py)
 - ✅ [Permutation in String](solutions/sliding_window/permutation_in_string.py)
 - ✅ [Minimum Window Substring](solutions/sliding_window/minimum_window_substring.py)
-- ✅ Sliding Window Maximum
+- ✅ [Sliding Window Maximum](solutions/sliding_window/sliding_window_maximum.py)
 
 ---
 
@@ -46,7 +46,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [Valid Parentheses](solutions/stack/valid_parentheses.py)
 - ✅ [Minimum Stack](solutions/stack/minimum_stack.py)
 - ✅ [Evaluate Reverse Polish Notation](solutions/stack/evaluate_reverse_polish_notation.py)
-- ✅ Daily Temperatures
+- ✅ [Daily Temperatures](solutions/stack/daily_temperatures.py)
 - ✅ [Car Fleet](solutions/stack/car_fleet.py)
 - ✅ [Largest Rectangle in Histogram](solutions/stack/largest_rectangle_in_histogram.py)
 
@@ -67,14 +67,13 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 ## 📂 Linked List
 
 - ✅ [Reverse Linked List](solutions/linked_list/reverse_linked_list.py)
-- ✅ Merge Two Sorted Lists
+- ✅ [Merge Two Sorted Lists](solutions/linked_list/merge_two_sorted_lists.py)
 - ✅ [Linked List Cycle Detection](solutions/linked_list/linked_list_cycle_detection.py)
 - ✅ [Remove Nth Node From End](solutions/linked_list/remove_nth_node_from_end.py)
 - ✅ [Reorder The List](solutions/linked_list/reorder_the_list.py)
 - ✅ [Copy List with Random Pointer](solutions/linked_list/copy_list_with_random_pointer.py)
 - ✅ [Add Two Numbers](solutions/linked_list/add_two_numbers.py)
-- ✅ Find the Dulicate Number
-- 🔲 Linked List Cycle
+- ✅ [Find the Duplicate Number](solutions/linked_list/find_the_duplicate_number.py)
 - ✅ [LRU Cache](solutions/linked_list/lru_cache.py)
 - ✅ [Merge K Sorted Lists](solutions/linked_list/merge_k_sorted_lists.py)
 - ✅ [Reverse Nodes in k Group](solutions/linked_list/reverse_nodes_in_k_group.py)
@@ -83,21 +82,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
 ## 📂 Trees
 
-- ✅ Invert Binary Tree
-- ✅ Maximum Depth of Binary Tree
-- ✅ Diameter of Binary Tree
-- ✅ Balanced Binary Tree
-- ✅ Same Tree
-- ✅ Lowest Common Ancestor of a BST
-- ✅ Subtree of Another Tree
-- ✅ Binary Tree Level Order Traversal
-- ✅ Binary Tree Right Side View
-- ✅ Count Good Nodes in Binary Tree
-- ✅ Validate Binary Search Tree
-- ✅ Kth Smallest Element in a BST
-- ✅ Construct Binary Tree from Preorder and Inorder Traversal
-- ✅ Binary Tree Maximum Path Sum
-- ✅ Serialize and Deserialize Binary Tree
+{{TREE}}
 
 ---
 
@@ -105,7 +90,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
 - ✅ [Implement Trie Prefix Tree](solutions/tries/implement_trie_prefix_tree.py)
 - ✅ [Design Add and Search Words Data Structure](solutions/tries/design_add_and_search_words_data_structure.py)
-- ✅ Word Search 2
+- ✅ [Word Search 2](solutions/tries/word_search_2.py)
 
 ---
 
@@ -145,11 +130,11 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [Surrounded Regions](solutions/graphs/surrounded_regions.py)
 - ✅ [Rotting Oranges](solutions/graphs/rotting_oranges.py)
 - ✅ [Walls and Gates](solutions/graphs/walls_and_gates.py)
-- ✅ Course Schedule
+- ✅ [Course Schedule](solutions/graphs/course_schedule.py)
 - ✅ [Course Schedule II](solutions/graphs/course_schedule_ii.py)
 - ✅ [Redundant Connection](solutions/graphs/redundant_connection.py)
 - ✅ [Graph Valid Tree](solutions/graphs/graph_valid_tree.py)
-- ✅ Connected Components Undirected Graph
+- ✅ [Connected Components Undirected Graph](solutions/graphs/connected_components_undirected_graph.py)
 - ✅ [Word Ladder](solutions/graphs/word_ladder.py)
 
 ---
@@ -160,7 +145,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [Alien Dictionary](solutions/advanced_graphs/alien_dictionary.py)
 - ✅ [Cheapest Flights Within K Stops](solutions/advanced_graphs/cheapest_flights_within_k_stops.py)
 - ✅ [Network Delay Time](solutions/advanced_graphs/network_delay_time.py)
-- ✅ Minimum Cost to Connect All Points
+- ✅ [Minimum Cost to Connect All Points](solutions/advanced_graphs/minimum_cost_to_connect_all_points.py)
 - ✅ [Swim in Rising Water](solutions/advanced_graphs/swim_in_rising_water.py)
 
 ---
@@ -171,7 +156,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [Min Cost Climbing Stairs](solutions/1d_dynamic_programming/min_cost_climbing_stairs.py)
 - ✅ [House Robber](solutions/1d_dynamic_programming/house_robber.py)
 - ✅ [House Robber II](solutions/1d_dynamic_programming/house_robber_ii.py)
-- ✅ Longest Palindromic Substring
+- ✅ [Longest Palindromic Substring](solutions/1d_dynamic_programming/longest_palindromic_substring.py)
 - ✅ [Palindromic Substrings](solutions/1d_dynamic_programming/palindromic_substrings.py)
 - ✅ [Decode Ways](solutions/1d_dynamic_programming/decode_ways.py)
 - ✅ [Coin Change](solutions/1d_dynamic_programming/coin_change.py)
@@ -184,7 +169,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
 ## 📂2D Dynamic Programming
 
-- 🔲 Unique Paths
+- ✅ [Unique Paths](solutions/2d_dynamic_programming/unique_paths.py)
 - 🔲 Longest Common Subsequence
 - 🔲 Best Time to Buy and Sell Stock with Cooldown
 - 🔲 Coin Change II

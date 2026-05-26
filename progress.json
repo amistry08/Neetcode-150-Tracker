@@ -60,7 +60,7 @@
         "Design Add and Search Words Data Structure": true,
         "Word Search 2": true
     },
-    "Trees": {
+    "Tree": {
         "Invert Binary Tree": true,
         "Maximum Depth of Binary Tree": true,
         "Diameter of Binary Tree": true,
@@ -101,7 +101,7 @@
     "Graphs": {
         "Number of Islands": true,
         "Clone Graph": true,
-        "Max Area of Island": true,
+        "Maximum Area of Island": true,
         "Pacific Atlantic Water Flow": true,
         "Surrounded Regions": true,
         "Rotting Oranges": true,

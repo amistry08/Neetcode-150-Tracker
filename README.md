@@ -82,7 +82,21 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
 ## 📂 Trees
 
-{{TREE}}
+- ✅ [Invert Binary Tree](solutions/tree/invert_binary_tree.py)
+- ✅ [Maximum Depth of Binary Tree](solutions/tree/maximum_depth_of_binary_tree.py)
+- ✅ Diameter of Binary Tree
+- ✅ [Balanced Binary Tree](solutions/tree/balanced_binary_tree.py)
+- ✅ [Same Tree](solutions/tree/same_tree.py)
+- ✅ [Lowest Common Ancestor of a BST](solutions/tree/lowest_common_ancestor_of_a_bst.py)
+- ✅ [Subtree of Another Tree](solutions/tree/subtree_of_another_tree.py)
+- ✅ [Binary Tree Level Order Traversal](solutions/tree/binary_tree_level_order_traversal.py)
+- ✅ [Binary Tree Right Side View](solutions/tree/binary_tree_right_side_view.py)
+- ✅ [Count Good Nodes in Binary Tree](solutions/tree/count_good_nodes_in_binary_tree.py)
+- ✅ [Validate Binary Search Tree](solutions/tree/validate_binary_search_tree.py)
+- ✅ [Kth Smallest Element in a BST](solutions/tree/kth_smallest_element_in_a_bst.py)
+- ✅ Construct Binary Tree from Preorder and Inorder Traversal
+- ✅ [Binary Tree Maximum Path Sum](solutions/tree/binary_tree_maximum_path_sum.py)
+- ✅ [Serialize and Deserialize Binary Tree](solutions/tree/serialize_and_deserialize_binary_tree.py)
 
 ---
 
@@ -125,7 +139,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
 - ✅ [Number of Islands](solutions/graphs/number_of_islands.py)
 - ✅ [Clone Graph](solutions/graphs/clone_graph.py)
-- ✅ Max Area of Island
+- ✅ [Maximum Area of Island](solutions/graphs/maximum_area_of_island.py)
 - ✅ [Pacific Atlantic Water Flow](solutions/graphs/pacific_atlantic_water_flow.py)
 - ✅ [Surrounded Regions](solutions/graphs/surrounded_regions.py)
 - ✅ [Rotting Oranges](solutions/graphs/rotting_oranges.py)
@@ -141,7 +155,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
 ## 📂 Advanced Graphs
 
-- ✅ Reconstruct Itinerary
+- ✅ [Reconstruct Itinerary](solutions/advanced_graphs/reconstruct_itinerary.py)
 - ✅ [Alien Dictionary](solutions/advanced_graphs/alien_dictionary.py)
 - ✅ [Cheapest Flights Within K Stops](solutions/advanced_graphs/cheapest_flights_within_k_stops.py)
 - ✅ [Network Delay Time](solutions/advanced_graphs/network_delay_time.py)

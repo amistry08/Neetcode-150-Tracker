@@ -50,8 +50,7 @@
         "Reorder The List": true,
         "Copy List with Random Pointer": true,
         "Add Two Numbers": true,
-        "Find the Dulicate Number": true,
-        "Linked List Cycle": false,
+        "Find the Duplicate Number": true,
         "LRU Cache": true,
         "Merge K Sorted Lists": true,
         "Reverse Nodes in k Group": true
@@ -61,7 +60,7 @@
         "Design Add and Search Words Data Structure": true,
         "Word Search 2": true
     },
-    "Tree": {
+    "Trees": {
         "Invert Binary Tree": true,
         "Maximum Depth of Binary Tree": true,
         "Diameter of Binary Tree": true,
@@ -137,7 +136,7 @@
         "Partition Equal Subset Sum": true
     },
     "2D Dynamic Programming": {
-        "Unique Paths": false,
+        "Unique Paths": true,
         "Longest Common Subsequence": false,
         "Best Time to Buy and Sell Stock with Cooldown": false,
         "Coin Change II": false,

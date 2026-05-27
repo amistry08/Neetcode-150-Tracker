@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `111 / 150 ✅`
+**Progress**: `112 / 150 ✅`
 
 ---
 
@@ -184,7 +184,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 ## 📂2D Dynamic Programming
 
 - ✅ [Unique Paths](solutions/2d_dynamic_programming/unique_paths.py)
-- 🔲 Longest Common Subsequence
+- ✅ [Longest Common Subsequence](solutions/2d_dynamic_programming/longest_common_subsequence.py)
 - 🔲 Best Time to Buy and Sell Stock with Cooldown
 - 🔲 Coin Change II
 - 🔲 Target Sum

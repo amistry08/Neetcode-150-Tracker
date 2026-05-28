@@ -138,7 +138,7 @@
     "2D Dynamic Programming": {
         "Unique Paths": true,
         "Longest Common Subsequence": true,
-        "Best Time to Buy and Sell Stock with Cooldown": false,
+        "Best Time to Buy and Sell Stock with Cooldown": true,
         "Coin Change II": false,
         "Target Sum": false,
         "Interleaving String": false,

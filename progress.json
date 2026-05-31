@@ -140,7 +140,7 @@
         "Longest Common Subsequence": true,
         "Best Time to Buy and Sell Stock with Cooldown": true,
         "Coin Change II": true,
-        "Target Sum": false,
+        "Target Sum": true,
         "Interleaving String": false,
         "Longest Increasing Path in a Matrix": false,
         "Distinct Subsequences": false,

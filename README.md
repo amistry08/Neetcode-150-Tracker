@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `115 / 150 ✅`
+**Progress**: `116 / 150 ✅`
 
 ---
 
@@ -188,7 +188,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [Best Time to Buy and Sell Stock with Cooldown](solutions/2d_dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.py)
 - ✅ [Coin Change II](solutions/2d_dynamic_programming/coin_change_ii.py)
 - ✅ [Target Sum](solutions/2d_dynamic_programming/target_sum.py)
-- 🔲 Interleaving String
+- ✅ Interleaving String
 - 🔲 Longest Increasing Path in a Matrix
 - 🔲 Distinct Subsequences
 - 🔲 Edit Distance

@@ -141,7 +141,7 @@
         "Best Time to Buy and Sell Stock with Cooldown": true,
         "Coin Change II": true,
         "Target Sum": true,
-        "Interleaving String": false,
+        "Interleaving String": true,
         "Longest Increasing Path in a Matrix": false,
         "Distinct Subsequences": false,
         "Edit Distance": false,

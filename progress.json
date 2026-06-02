@@ -142,7 +142,7 @@
         "Coin Change II": true,
         "Target Sum": true,
         "Interleaving String": true,
-        "Longest Increasing Path in a Matrix": false,
+        "Longest Increasing Path in a Matrix": true,
         "Distinct Subsequences": false,
         "Edit Distance": false,
         "Burst Balloons": false,

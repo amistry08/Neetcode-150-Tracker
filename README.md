@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `117 / 150 ✅`
+**Progress**: `119 / 150 ✅`
 
 ---
 
@@ -190,8 +190,8 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [Target Sum](solutions/2d_dynamic_programming/target_sum.py)
 - ✅ Interleaving String
 - ✅ [Longest Increasing Path in a Matrix](solutions/2d_dynamic_programming/longest_increasing_path_in_a_matrix.py)
-- 🔲 Distinct Subsequences
-- 🔲 Edit Distance
+- ✅ Distinct Subsequences
+- ✅ [Edit Distance](solutions/2d_dynamic_programming/edit_distance.py)
 - 🔲 Burst Balloons
 - 🔲 Regular Expression Matching
 

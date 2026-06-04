@@ -144,7 +144,7 @@
         "Interleaving String": true,
         "Longest Increasing Path in a Matrix": true,
         "Distinct Subsequences": true,
-        "Edit Distance": false,
+        "Edit Distance": true,
         "Burst Balloons": false,
         "Regular Expression Matching": false
     },

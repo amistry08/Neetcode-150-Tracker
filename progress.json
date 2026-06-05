@@ -145,7 +145,7 @@
         "Longest Increasing Path in a Matrix": true,
         "Distinct Subsequences": true,
         "Edit Distance": true,
-        "Burst Balloons": false,
+        "Burst Balloons": true,
         "Regular Expression Matching": false
     },
     "Greedy": {

@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `120 / 150 ✅`
+**Progress**: `121 / 150 ✅`
 
 ---
 
@@ -193,7 +193,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ Distinct Subsequences
 - ✅ [Edit Distance](solutions/2d_dynamic_programming/edit_distance.py)
 - ✅ [Burst Balloons](solutions/2d_dynamic_programming/burst_balloons.py)
-- 🔲 Regular Expression Matching
+- ✅ [Regular Expression Matching](solutions/2d_dynamic_programming/regular_expression_matching.py)
 
 ---
 

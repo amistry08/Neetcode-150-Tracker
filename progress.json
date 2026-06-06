@@ -146,7 +146,7 @@
         "Distinct Subsequences": true,
         "Edit Distance": true,
         "Burst Balloons": true,
-        "Regular Expression Matching": false
+        "Regular Expression Matching": true
     },
     "Greedy": {
         "Maximum Subarray": false,

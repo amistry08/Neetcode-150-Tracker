@@ -149,7 +149,7 @@
         "Regular Expression Matching": true
     },
     "Greedy": {
-        "Maximum Subarray": false,
+        "Maximum Subarray": true,
         "Jump Game": false,
         "Jump Game II": false,
         "Gas Station": false,

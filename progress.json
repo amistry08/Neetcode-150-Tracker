@@ -150,7 +150,7 @@
     },
     "Greedy": {
         "Maximum Subarray": true,
-        "Jump Game": false,
+        "Jump Game": true,
         "Jump Game II": false,
         "Gas Station": false,
         "Hand of Straights": false,

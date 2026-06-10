@@ -151,7 +151,7 @@
     "Greedy": {
         "Maximum Subarray": true,
         "Jump Game": true,
-        "Jump Game II": false,
+        "Jump Game II": true,
         "Gas Station": false,
         "Hand of Straights": false,
         "Merge Triplets to Form Target Triplet": false,

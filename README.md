@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `124 / 150 ✅`
+**Progress**: `125 / 150 ✅`
 
 ---
 
@@ -202,7 +202,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [Maximum Subarray](solutions/greedy/maximum_subarray.py)
 - ✅ [Jump Game](solutions/greedy/jump_game.py)
 - ✅ [Jump Game II](solutions/greedy/jump_game_ii.py)
-- 🔲 Gas Station
+- ✅ [Gas Station](solutions/greedy/gas_station.py)
 - 🔲 Hand of Straights
 - 🔲 Merge Triplets to Form Target Triplet
 - 🔲 Partition Labels

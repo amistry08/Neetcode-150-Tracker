@@ -152,7 +152,7 @@
         "Maximum Subarray": true,
         "Jump Game": true,
         "Jump Game II": true,
-        "Gas Station": false,
+        "Gas Station": true,
         "Hand of Straights": false,
         "Merge Triplets to Form Target Triplet": false,
         "Partition Labels": false,

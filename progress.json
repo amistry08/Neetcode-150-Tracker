@@ -154,7 +154,7 @@
         "Jump Game II": true,
         "Gas Station": true,
         "Hand of Straights": true,
-        "Merge Triplets to Form Target Triplet": false,
+        "Merge Triplets to Form Target Triplet": true,
         "Partition Labels": false,
         "Valid Parenthesis String": false
     },

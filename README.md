@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `126 / 150 ✅`
+**Progress**: `127 / 150 ✅`
 
 ---
 
@@ -204,7 +204,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [Jump Game II](solutions/greedy/jump_game_ii.py)
 - ✅ [Gas Station](solutions/greedy/gas_station.py)
 - ✅ [Hand of Straights](solutions/greedy/hand_of_straights.py)
-- 🔲 Merge Triplets to Form Target Triplet
+- ✅ [Merge Triplets to Form Target Triplet](solutions/greedy/merge_triplets_to_form_target_triplet.py)
 - 🔲 Partition Labels
 - 🔲 Valid Parenthesis String
 

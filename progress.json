@@ -156,7 +156,7 @@
         "Hand of Straights": true,
         "Merge Triplets to Form Target Triplet": true,
         "Partition Labels": true,
-        "Valid Parenthesis String": false
+        "Valid Parenthesis String": true
     },
     "Intervals": {
         "Insert Interval": false,

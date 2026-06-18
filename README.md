@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `127 / 150 ✅`
+**Progress**: `128 / 150 ✅`
 
 ---
 
@@ -205,7 +205,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [Gas Station](solutions/greedy/gas_station.py)
 - ✅ [Hand of Straights](solutions/greedy/hand_of_straights.py)
 - ✅ [Merge Triplets to Form Target Triplet](solutions/greedy/merge_triplets_to_form_target_triplet.py)
-- 🔲 Partition Labels
+- ✅ [Partition Labels](solutions/greedy/partition_labels.py)
 - 🔲 Valid Parenthesis String
 
 ---

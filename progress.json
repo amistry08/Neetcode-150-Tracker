@@ -159,7 +159,7 @@
         "Valid Parenthesis String": true
     },
     "Intervals": {
-        "Insert Interval": false,
+        "Insert Interval": true,
         "Merge Intervals": false,
         "Non-overlapping Intervals": false,
         "Meeting Rooms": false,

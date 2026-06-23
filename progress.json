@@ -160,7 +160,7 @@
     },
     "Intervals": {
         "Insert Interval": true,
-        "Merge Intervals": false,
+        "Merge Intervals": true,
         "Non-overlapping Intervals": false,
         "Meeting Rooms": false,
         "Meeting Rooms II": false,

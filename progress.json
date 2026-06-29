@@ -161,7 +161,7 @@
     "Intervals": {
         "Insert Interval": true,
         "Merge Intervals": true,
-        "Non-overlapping Intervals": false,
+        "Non-overlapping Intervals": true,
         "Meeting Rooms": false,
         "Meeting Rooms II": false,
         "Minimum Interval to Include Each Query": false

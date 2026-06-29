@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `130 / 150 ✅`
+**Progress**: `131 / 150 ✅`
 
 ---
 
@@ -213,7 +213,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 ## 📂Intervals
 
 - ✅ Insert Interval
-- 🔲 Merge Intervals
+- ✅ [Merge Intervals](solutions/intervals/merge_intervals.py)
 - 🔲 Non-overlapping Intervals
 - 🔲 Meeting Rooms
 - 🔲 Meeting Rooms II

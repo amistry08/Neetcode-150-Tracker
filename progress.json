@@ -162,8 +162,8 @@
         "Insert Interval": true,
         "Merge Intervals": true,
         "Non-overlapping Intervals": true,
-        "Meeting Rooms": false,
-        "Meeting Rooms II": false,
+        "Meeting Rooms": true,
+        "Meeting Rooms II": true,
         "Minimum Interval to Include Each Query": false
     },
     "Math & Geometry": {

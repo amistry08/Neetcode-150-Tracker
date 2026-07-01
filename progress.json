@@ -164,7 +164,7 @@
         "Non-overlapping Intervals": true,
         "Meeting Rooms": true,
         "Meeting Rooms II": true,
-        "Minimum Interval to Include Each Query": false
+        "Minimum Interval to Include Each Query": true
     },
     "Math & Geometry": {
         "Rotate Image": false,

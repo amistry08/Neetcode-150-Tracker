@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `134 / 150 ✅`
+**Progress**: `135 / 150 ✅`
 
 ---
 
@@ -217,7 +217,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ Non-overlapping Intervals
 - ✅ Meeting Rooms
 - ✅ Meeting Rooms II
-- 🔲 Minimum Interval to Include Each Query
+- ✅ [Minimum Interval to Include Each Query](solutions/intervals/minimum_interval_to_include_each_query.py)
 
 ---
 

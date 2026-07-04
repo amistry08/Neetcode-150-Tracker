@@ -168,7 +168,7 @@
     },
     "Math & Geometry": {
         "Rotate Image": true,
-        "Spiral Matrix": false,
+        "Spiral Matrix": true,
         "Set Matrix Zeroes": false,
         "Happy Number": false,
         "Plus One": false,

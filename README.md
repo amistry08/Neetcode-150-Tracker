@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `137 / 150 ✅`
+**Progress**: `138 / 150 ✅`
 
 ---
 
@@ -225,7 +225,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
 - ✅ [Rotate Image](solutions/math_&_geometry/rotate_image.py)
 - ✅ [Spiral Matrix](solutions/math_&_geometry/spiral_matrix.py)
-- 🔲 Set Matrix Zeroes
+- ✅ [Set Matrix Zeroes](solutions/math_&_geometry/set_matrix_zeroes.py)
 - 🔲 Happy Number
 - 🔲 Plus One
 - 🔲 Pow(x, n)

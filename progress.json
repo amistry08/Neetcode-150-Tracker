@@ -170,8 +170,8 @@
         "Rotate Image": true,
         "Spiral Matrix": true,
         "Set Matrix Zeroes": true,
-        "Happy Number": false,
-        "Plus One": false,
+        "Happy Number": true,
+        "Plus One": true,
         "Pow(x, n)": false,
         "Multiply Strings": false,
         "Detect Squares": false

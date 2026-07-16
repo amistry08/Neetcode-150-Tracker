@@ -172,7 +172,7 @@
         "Set Matrix Zeroes": true,
         "Happy Number": true,
         "Plus One": true,
-        "Pow(x, n)": false,
+        "Pow(x, n)": true,
         "Multiply Strings": false,
         "Detect Squares": false
     },

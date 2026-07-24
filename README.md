@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `141 / 150 ✅`
+**Progress**: `142 / 150 ✅`
 
 ---
 
@@ -229,7 +229,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [Happy Number](solutions/math_&_geometry/happy_number.py)
 - ✅ [Plus One](solutions/math_&_geometry/plus_one.py)
 - ✅ Pow(x, n)
-- 🔲 Multiply Strings
+- ✅ Multiply Strings
 - 🔲 Detect Squares
 
 ---

@@ -173,7 +173,7 @@
         "Happy Number": true,
         "Plus One": true,
         "Pow(x, n)": true,
-        "Multiply Strings": false,
+        "Multiply Strings": true,
         "Detect Squares": false
     },
     "Bit Manipulation": {

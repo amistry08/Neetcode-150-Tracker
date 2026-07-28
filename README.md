@@ -2,7 +2,7 @@
 
 Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 
-**Progress**: `142 / 150 ✅`
+**Progress**: `143 / 150 ✅`
 
 ---
 
@@ -230,7 +230,7 @@ Track my progress solving the [NeetCode 150](https://neetcode.io/practice).
 - ✅ [Plus One](solutions/math_&_geometry/plus_one.py)
 - ✅ Pow(x, n)
 - ✅ Multiply Strings
-- 🔲 Detect Squares
+- ✅ [Detect Squares](solutions/math_&_geometry/detect_squares.py)
 
 ---
 

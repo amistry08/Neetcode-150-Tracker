@@ -174,7 +174,7 @@
         "Plus One": true,
         "Pow(x, n)": true,
         "Multiply Strings": true,
-        "Detect Squares": false
+        "Detect Squares": true
     },
     "Bit Manipulation": {
         "Single Number": false,
